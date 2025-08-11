@@ -1,0 +1,707 @@
+Gene,Target,Drug_ID,Drug_name,Approval_status,SMILES
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D01ZAQ,Capivasertib,Approved,C1CN(CCC1(C(=O)NC(CCO)C2=CC=C(C=C2)Cl)N)C3=NC=NC4=C3C=CN4
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D0I4TH,GDC-0068,Phase 3,CC1CC(C2=C1C(=NC=N2)N3CCN(CC3)C(=O)C(CNC(C)C)C4=CC=C(C=C4)Cl)O
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D0I6VU,Enzastaurin,Phase 3,CN1C=C(C2=CC=CC=C21)C3=C(C(=O)NC3=O)C4=CN(C5=CC=CC=C54)C6CCN(CC6)CC7=CC=CC=N7
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D02NXM,GSK2110183,Phase 2,CN1C(=C(C=N1)Cl)C2=C(SC(=C2)C(=O)NC(CC3=CC(=CC=C3)F)CN)Cl
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D07SYZ,RX-0201,Phase 2,
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D0S5WP,Trametinib + 2141795,Phase 2,failed
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D0X7CV,PTX-200,Phase 2,
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D01TBJ,CMX-2043,Phase 2,CC(C(=O)O)NC(=O)C(CCC(=O)O)NC(=O)CCCCC1CCSS1
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D07DWF,ARQ 092,Phase 2,C1CC(C1)(C2=CC=C(C=C2)N3C4=C(C=CC(=N4)C5=CC=CC=C5)N=C3C6=C(N=CC=C6)N)N
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D0YB3W,CI-1033,Phase 2,C=CC(=O)NC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC(=C(C=C3)F)Cl)OCCCN4CCOCC4
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D09CCZ,Triciribine prodrug,Phase 1/2,
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D02QWY,BMS-754807,Phase 1,CC1(CCCN1C2=NN3C=CC=C3C(=N2)NC4=NNC(=C4)C5CC5)C(=O)NC6=CN=C(C=C6)F
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D0L8PZ,ARQ 751,Phase 1,
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D06HYF,M2698,Phase 1,C1CN(C1)CC(C2=CC(=C(C=C2)Cl)C(F)(F)F)NC3=NC=NC4=C3C=CC=C4C(=O)N
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D07QBF,PMID28460551-Compound-6,Patented,
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D0O1AV,Squalestatin 1,Terminated,CCC(C)CC(C)C=CC(=O)OC1C(C2(OC(C(C1(O2)C(=O)O)(C(=O)O)O)C(=O)O)CCC(=C)C(C(C)CC3=CC=CC=C3)OC(=O)C)O
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D07MQF,MYRIOCIN,Investigative,CCCCCCC(=O)CCCCCCC=CCC(C(C(CO)(C(=O)O)N)O)O
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D09DGE,LD-101,Investigative,C1=C(C(=O)C2=C(N=CN=C2N1C3C(C(C(O3)CO)O)O)N)C(=O)N
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D0CM6T,A-674563,Investigative,CC1=C2C=C(C=CC2=NN1)C3=CC(=CN=C3)OCC(CC4=CC=CC=C4)N
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D0F8HX,Lactoquinomycin,Investigative,CC1C(C(CC(O1)C2=C(C3=C(C=C2)C(=O)C4=C(C3=O)C(OC5C4OC(=O)C5)C)O)N(C)C)O
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D0N7CY,VLI-27,Investigative,
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D0OX1T,A-443654,Investigative,CC1=C2C=C(C=CC2=NN1)C3=CC(=CN=C3)OCC(CC4=CNC5=CC=CC=C54)N
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D0PX5F,NU-1001-41,Investigative,
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D0RZ1H,"4,5,6-trihydroxy-3-methylphthalide",Investigative,CC1C2=C(C(=C(C=C2C(=O)O1)O)O)O
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D0V1ES,ALM-301,Investigative,
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D0L5AB,BX-517,Investigative,CC(=C1C2=C(C=CC(=C2)NC(=O)N)NC1=O)C3=CC=CN3
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D0MH9X,"Inositol 1,3,4,5-Tetrakisphosphate",Investigative,C1(C(C(C(C(C1OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)O)OP(=O)(O)O)O
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D00ATA,(Z)-3-((1H-pyrrol-2-yl)methylene)indolin-2-one,Investigative,C1=CC=C2C(=C1)C(=CC3=CC=CN3)C(=O)N2
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D05APZ,Akt inhibitor VIII,Investigative,C1CN(CCC1N2C3=CC=CC=C3NC2=O)CC4=CC=C(C=C4)C5=C(N=C6C=C7C(=NC=N7)C=C6N5)C8=CC=CC=C8
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D0I1FJ,SB-747651A,Investigative,CCN1C2=C(C=NC=C2CNC3CCNCC3)N=C1C4=NON=C4N
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D0L2WP,PMID20005102C1,Investigative,CC1=C2C=C(C=CC2=NN1)C3=C(N=CC(=C3)OCC(CC4=CNC5=CC=CC=C54)N)C6=COC=C6
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D0GB4V,STAUROSPORINONE,Investigative,
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D0M5FF,Ro31-8220,Investigative,CN1C=C(C2=CC=CC=C21)C3=C(C(=O)NC3=O)C4=CN(C5=CC=CC=C54)CCCSC(=N)N
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D0M4SY,BMS-536924,Investigative,CC1=CC(=CC2=C1N=C(N2)C3=C(C=CNC3=O)NCC(C4=CC(=CC=C4)Cl)O)N5CCOCC5
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D0N6ES,KN-62,Investigative,CN(C(CC1=CC=C(C=C1)OS(=O)(=O)C2=CC=CC3=C2C=CN=C3)C(=O)N4CCN(CC4)C5=CC=CC=C5)S(=O)(=O)C6=CC=CC7=C6C=CN=C7
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D0B9BU,CI-1040,Investigative,C1CC1CONC(=O)C2=C(C(=C(C=C2)F)F)NC3=C(C=C(C=C3)I)Cl
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D0O1YH,"4,5,6,7-tetrabromo-1H-benzo[d][1,2,3]triazole",Investigative,C1(=C(C2=NNN=C2C(=C1Br)Br)Br)Br
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D0A5RM,"4-[(3,5-diamino-1H-pyrazol-4-yl)diazenyl]phenol",Investigative,C1=CC(=O)C=CC1=NNC2=C(NN=C2N)N
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D0TO6S,Bisindolylmaleimide-I,Investigative,CN(C)CCCN1C=C(C2=CC=CC=C21)C3=C(C(=O)NC3=O)C4=CNC5=CC=CC=C54
+AKT1,RAC-alpha serine/threonine-protein kinase (AKT1),D0L8HO,RO-316233,Investigative,C1=CC=C2C(=C1)C(=CN2)C3=C(C(=O)NC3=O)C4=CNC5=CC=CC=C54
+AKT2,RAC-beta serine/threonine-protein kinase (AKT2),D0M9QJ,PHT-427,Investigative,CCCCCCCCCCCCC1=CC=C(C=C1)S(=O)(=O)NC2=NN=CS2
+AKT2,RAC-beta serine/threonine-protein kinase (AKT2),D05APZ,Akt inhibitor VIII,Investigative,C1CN(CCC1N2C3=CC=CC=C3NC2=O)CC4=CC=C(C=C4)C5=C(N=C6C=C7C(=NC=N7)C=C6N5)C8=CC=CC=C8
+AKT2,RAC-beta serine/threonine-protein kinase (AKT2),D0L2WP,PMID20005102C1,Investigative,CC1=C2C=C(C=CC2=NN1)C3=C(N=CC(=C3)OCC(CC4=CNC5=CC=CC=C54)N)C6=COC=C6
+AURKB,Aurora kinase B (AURKB),D05PZB,AT9283,Phase 3,C1CC1NC(=O)NC2=C(NN=C2)C3=NC4=C(N3)C=C(C=C4)CN5CCOCC5
+AURKB,Aurora kinase B (AURKB),D0A1AQ,Rosiglitazone + metformin,Phase 3,CC1=C(NC(=C1CCC(=O)O)C)C=C2C3=CC=CC=C3NC2=O
+AURKB,Aurora kinase B (AURKB),D02XNW,VX-680,Phase 2,CC1=CC(=NN1)NC2=CC(=NC(=N2)SC3=CC=C(C=C3)NC(=O)C4CC4)N5CCN(CC5)C
+AURKB,Aurora kinase B (AURKB),D08HOM,ABT-348,Phase 2,C1=CC(=CC(=C1)F)NC(=O)NC2=CC=C(C=C2)C3=CSC4=C3C(=NC=C4C5=CN(N=C5)CCO)N
+AURKB,Aurora kinase B (AURKB),D02RJY,PHA-739358,Phase 2,CN1CCN(CC1)C2=CC=C(C=C2)C(=O)NC3=NNC4=C3CN(C4)C(=O)C(C5=CC=CC=C5)OC
+AURKB,Aurora kinase B (AURKB),D08HFW,TAK-901,Phase 1,CCS(=O)(=O)C1=CC=CC(=C1)C2=CC(=C(C3=C2C4=C(N3)N=CC(=C4)C)C)C(=O)NC5CCN(CC5)C
+AURKB,Aurora kinase B (AURKB),D09KRU,BI-831266,Phase 1,
+AURKB,Aurora kinase B (AURKB),D0P5IZ,BI-811283,Phase 1,
+AURKB,Aurora kinase B (AURKB),D0Q7RE,AZD-1152-HQPA,Phase 1,CCN(CCCOC1=CC2=C(C=C1)C(=NC=N2)NC3=NNC(=C3)CC(=O)NC4=CC(=CC=C4)F)CCO
+AURKB,Aurora kinase B (AURKB),D08DCP,BI-847325,Phase 1,CCNC(=O)C#CC1=CC2=C(C=C1)C(=C(N2)O)C(=NC3=CC=C(C=C3)CN(C)C)C4=CC=CC=C4
+AURKB,Aurora kinase B (AURKB),D0E5XA,R763,Phase 1,CC1=C(C=CC(=C1)NC2=NC=C(C(=N2)NC3C4CC(C3C(=O)N)C=C4)F)N5CCN(CC5)C
+AURKB,Aurora kinase B (AURKB),D0IQ0Z,GSK1070916,Phase 1,CCN1C=C(C(=N1)C2=CC=C(C=C2)NC(=O)N(C)C)C3=C4C=C(NC4=NC=C3)C5=CC=CC(=C5)CN(C)C
+AURKB,Aurora kinase B (AURKB),D0J6AB,MK-5108,Phase 1,C1CC(CCC1OC2=C(C(=CC=C2)Cl)F)(CC3=NC(=CC=C3)NC4=NC=CS4)C(=O)O
+AURKB,Aurora kinase B (AURKB),D0P0HU,GSK1070916A,Phase 1,
+AURKB,Aurora kinase B (AURKB),D05LKZ,HPP-607,Phase 1,
+AURKB,Aurora kinase B (AURKB),D0CY1B,CYC116,Phase 1,CC1=C(SC(=N1)N)C2=NC(=NC=C2)NC3=CC=C(C=C3)N4CCOCC4
+AURKB,Aurora kinase B (AURKB),D0EJ3B,AMG 900,Phase 1,CC1=CSC(=C1)C2=NN=C(C3=CC=CC=C32)NC4=CC=C(C=C4)OC5=C(C=CC=N5)C6=NC(=NC=C6)N
+AURKB,Aurora kinase B (AURKB),D0OA5G,SNS-314,Phase 1,C1=CC(=CC(=C1)Cl)NC(=O)NC2=NC=C(S2)CCNC3=NC=NC4=C3SC=C4
+AURKB,Aurora kinase B (AURKB),D0H7AC,PF-03814735,Discontinued in Phase 1,CC(=O)NCC(=O)N1C2CCC1C3=C2C=CC(=C3)NC4=NC=C(C(=N4)NC5CCC5)C(F)(F)F
+AURKB,Aurora kinase B (AURKB),D14NDZ,Deguelin,Investigative,CC1(C=CC2=C(O1)C=CC3=C2OC4COC5=CC(=C(C=C5C4C3=O)OC)OC)C
+AURKB,Aurora B messenger RNA (AURKB mRNA),D02RJY,PHA-739358,Phase 2,CN1CCN(CC1)C2=CC=C(C=C2)C(=O)NC3=NNC4=C3CN(C4)C(=O)C(C5=CC=CC=C5)OC
+AURKB,Aurora B messenger RNA (AURKB mRNA),D05WSM,HESPERADIN,Investigative,CCS(=O)(=O)NC1=CC2=C(C=C1)NC(=C2C(=NC3=CC=C(C=C3)CN4CCCCC4)C5=CC=CC=C5)O
+AURKB,Aurora B messenger RNA (AURKB mRNA),D07PVS,ISIS 173848,Investigative,
+AURKB,Aurora B messenger RNA (AURKB mRNA),D0K1JI,ISIS 173813,Investigative,
+AURKB,Aurora B messenger RNA (AURKB mRNA),D0PI2A,ISIS 173831,Investigative,
+AURKB,Aurora B messenger RNA (AURKB mRNA),D0Y5UO,ISIS 173840,Investigative,
+AURKB,Aurora B messenger RNA (AURKB mRNA),D04MYT,"4-(1H-pyrazol-4-yl)-1H-pyrrolo[2,3-b]pyridine",Investigative,C1=CNC2=NC=CC(=C21)C3=CNN=C3
+AURKB,Aurora B messenger RNA (AURKB mRNA),D06LJL,PMID16451062C46,Investigative,COC1=C(C=C2C(=C1)C(=NC=N2)NC3=NC=C(S3)CC(=O)NC4=CC(=CC=C4)F)OCCCN5CCC(CC5)CO
+AURKB,Aurora B messenger RNA (AURKB mRNA),D0I1IK,7-fluoroindirubin-3-acetoxime,Investigative,CC(=O)ON=C1C2=CC=CC=C2N=C1C3=C(NC4=C3C=CC=C4F)O
+AURKB,Aurora B messenger RNA (AURKB mRNA),D0K6VW,7-iodoindirubin-3-oxime,Investigative,C1=CC=C2C(=C1)C(=C(N2)C3=C4C=CC=C(C4=NC3=O)I)NO
+AURKB,Aurora B messenger RNA (AURKB mRNA),D0K8YI,7-chloroindirubin-3-oxime,Investigative,C1=CC=C2C(=C1)C(=C(N2)C3=C4C=CC=C(C4=NC3=O)Cl)NO
+AURKB,Aurora B messenger RNA (AURKB mRNA),D0L1GF,7-bromoindirubin-3-oxime,Investigative,C1=CC=C2C(=C1)C(=C(N2)C3C4=C(C(=CC=C4)Br)NC3=O)N=O
+AURKB,Aurora B messenger RNA (AURKB mRNA),D0U8VY,quinazoline deriv. 1,Investigative,COC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=C(C=C3)NC(=O)C4=CC=CC=C4)OC
+AURKB,Aurora B messenger RNA (AURKB mRNA),D00TKJ,7-fluoroindirubin-3-oxime,Investigative,C1=CC=C2C(=C1)C(=C(N2)C3=C4C=CC=C(C4=NC3=O)F)NO
+AURKB,Aurora B messenger RNA (AURKB mRNA),D01TDV,PMID21742770C1,Investigative,CN1CCN(CC1)C2=C(C=C(C=C2)NC3=NC4=C(C=C3)C=NN4C5=CC=C(C=C5)OC)OC
+AURKB,Aurora B messenger RNA (AURKB mRNA),D06AGN,Indirubin-3-acetoxime,Investigative,CC(=O)ON=C1C2=CC=CC=C2N=C1C3=C(NC4=CC=CC=C43)O
+AURKB,Aurora B messenger RNA (AURKB mRNA),D0A7FQ,CGP-57380,Investigative,C1=CC(=CC=C1NC2=C3C(=NC=NC3=NN2)N)F
+AURKB,Aurora B messenger RNA (AURKB mRNA),D0ME9B,PMID20855207C25,Investigative,CC1CN(CC(O1)C)C(C)C2=NSC(=C2)NC3=NC(=CN4C3=NC=C4C5=CNN=C5)C
+AURKB,Aurora B messenger RNA (AURKB mRNA),D0V6LP,Indirubin-3-methoxime,Investigative,CON=C1C2=CC=CC=C2N=C1C3=C(NC4=CC=CC=C43)O
+AURKB,Aurora B messenger RNA (AURKB mRNA),D06OAH,6-bromoindirubin-3-oxime,Investigative,C1=CC=C2C(=C1)C(=C(N2)C3=C(NC4=C3C=CC(=C4)Br)O)N=O
+AURKB,Aurora B messenger RNA (AURKB mRNA),D0CE3R,SU 6656,Investigative,CN(C)S(=O)(=O)C1=CC2=C(C=C1)NC(=O)C2=CC3=CC4=C(N3)CCCC4
+AURKB,Aurora B messenger RNA (AURKB mRNA),D0Y0ES,Indirubin-3'-monoxime,Investigative,C1=CC=C2C(=C1)C(=C(N2)O)C3=C(C4=CC=CC=C4N3)N=O
+CTSK,Cathepsin K (CTSK),D0J6AU,Odanacatib,Phase 3,CC(C)(CC(C(=O)NC1(CC1)C#N)NC(C2=CC=C(C=C2)C3=CC=C(C=C3)S(=O)(=O)C)C(F)(F)F)F
+CTSK,Cathepsin K (CTSK),D07BIK,VEL-0230,Phase 1,CC(C)CC(COCC(C)C)NC(=O)C1C(O1)C(=O)[O-].[Na+]
+CTSK,Cathepsin K (CTSK),D08KIB,SAR-114137,Phase 1,CCC(C(=O)C1=NOC(=N1)C2=CC=CC=C2)NC(=O)C(CC(=O)N3CCOCC3)CS(=O)(=O)CC(C)C
+CTSK,Cathepsin K (CTSK),D00KGL,PMID27998201-Compound-8,Patented,
+CTSK,Cathepsin K (CTSK),D0BR6D,PMID27998201-Compound-10,Patented,CC(C)CC(C1=CC=CC(=C1)C2=CC=C(C=C2)C3=CC=CC=C3)C(=O)N(C)N(C)C#N
+CTSK,Cathepsin K (CTSK),D0MR9V,PMID27998201-Compound-15,Patented,
+CTSK,Cathepsin K (CTSK),D0QM0D,Oxotetrahydro-2-H-furo[3.2-b]pyrrol-4(5-H)-yl derivative 1,Patented,C1CCC(CC1)C(C(=O)N2CC(C3C2C(=O)CO3)Cl)NC(=O)C4=CC=CC(=C4)C5=CNN=C5
+CTSK,Cathepsin K (CTSK),D04VGR,PMID27998201-Compound-9,Patented,CC(C)CC(C(=O)N(C)N(C)C#N)NC(=O)C1=CC=CC(=C1)C2=CC=C(C=C2)C3=CC=CC=C3
+CTSK,Cathepsin K (CTSK),D06LLT,PMID25399719-Compound-17,Patented,
+CTSK,Cathepsin K (CTSK),D05OIU,PMID27998201-Compound-5,Patented,CC#CC(C(OC1=CC=C(C=C1)SC)(F)F)NC(CSCC2CC2)C(=O)NC3(CC3)C#N
+CTSK,Cathepsin K (CTSK),D06XCD,PMID27998201-Compound-12,Patented,
+CTSK,Cathepsin K (CTSK),D00ZUU,ONO-5334,Discontinued in Phase 2,CC1CSC(=NNC(=O)C(=O)C(C2CCOCC2)NC(=O)C3CCCCCC3)N1C
+CTSK,Cathepsin K (CTSK),D01LNG,Balicatib,Discontinued in Phase 2,CCCN1CCN(CC1)C2=CC=C(C=C2)C(=O)NC3(CCCCC3)C(=O)NCC#N
+CTSK,Cathepsin K (CTSK),D0T5PH,Relacatib,Discontinued in Phase 2,CC1CCC(C(=O)CN1S(=O)(=O)C2=CC=CC=N2)NC(=O)C(CC(C)C)NC(=O)C3=CC4=CC=CC=C4O3
+CTSK,Cathepsin K (CTSK),D0J5FU,MIV-701,Discontinued in Phase 1,
+CTSK,Cathepsin K (CTSK),D0FJ3P,GW-2592X,Preclinical,
+CTSK,Cathepsin K (CTSK),D0Z0PR,L-006235-1,Preclinical,CN1CCN(CC1)C2=NC(=CS2)C3=CC=C(C=C3)C(=O)NC4(CCCCC4)C(=O)NCC#N
+CTSK,Cathepsin K (CTSK),D00FGA,Pyrrolidine-1-carbonitrile,Investigative,C1CCN(C1)C#N
+CTSK,Cathepsin K (CTSK),D00QIA,(S)-tert-butyl 4-methyl-1-oxopentan-2-ylcarbamate,Investigative,CC(C)CC(C=O)NC(=O)OC(C)(C)C
+CTSK,Cathepsin K (CTSK),D00TRY,Tert-Butyl(1s)-1-Cyclohexyl-2-Oxoethylcarbamate,Investigative,CC(C)(C)OC(=O)NC(C=O)C1CCCCC1
+CTSK,Cathepsin K (CTSK),D02QOT,3-Amino-5-Phenylpentane,Investigative,C1=CC=C(C=C1)CCC(CCS(=O)(=O)C2=CC=CC=C2)N
+CTSK,Cathepsin K (CTSK),D02TNR,N-(1-((cyanomethyl)carbamoyl)cyclohexyl)benzamide,Investigative,C1CCC(CC1)(C(=O)NCC#N)NC(=O)C2=CC=CC=C2
+CTSK,Cathepsin K (CTSK),D04HBH,AM-3701,Investigative,
+CTSK,Cathepsin K (CTSK),D04QHB,2-cyclohexylamino-pyrimidine-4-carbonitrile,Investigative,C1CCC(CC1)NC2=NC=CC(=N2)C#N
+CTSK,Cathepsin K (CTSK),D06AZJ,4-cyclohexylamino-pyrimidine-2-carbonitrile,Investigative,C1CCC(CC1)NC2=NC(=NC=C2)C#N
+CTSK,Cathepsin K (CTSK),D0A8PI,Boc-Agly-Val-Agly-OEt,Investigative,CCOC(=O)NNC(=O)C(C(C)C)NC(=O)C(CC(C)C)NC(=O)OC(C)(C)C
+CTSK,Cathepsin K (CTSK),D0B2FE,4-phenyl-6-propylpyrimidine-2-carbonitrile,Investigative,CCCC1=CC(=NC(=N1)C#N)C2=CC=CC=C2
+CTSK,Cathepsin K (CTSK),D0FC7L,2-cyclohexylamino-pyridine-2-carbonitrile,Investigative,C1CCC(CC1)NC2=CC=CC(=N2)C#N
+CTSK,Cathepsin K (CTSK),D0H8CC,Tert-butyl (2S)-1-cyanopyrrolidine-2-carboxylate,Investigative,CC(C)(C)OC(=O)C1CCCN1C#N
+CTSK,Cathepsin K (CTSK),D0MM4X,MIV-710,Investigative,
+CTSK,Cathepsin K (CTSK),D0P5BY,N-(cyanomethyl)cyclohex-1-ene-1-carboxamide,Investigative,C1CCC(=CC1)C(=O)NCC#N
+CTSK,Cathepsin K (CTSK),D0V1UZ,BF/PC-21,Investigative,
+CTSK,Cathepsin K (CTSK),D0W0BK,TERT-BUTYL 2-CYANO-2-METHYLHYDRAZINECARBOXYLATE,Investigative,CC(C)(C)OC(=O)NN(C)C#N
+CTSK,Cathepsin K (CTSK),D0Y5LX,4-cyclohexyl-6-propylpyrimidine-2-carbonitrile,Investigative,CCCC1=CC(=NC(=N1)C#N)C2CCCCC2
+CTSK,Cathepsin K (CTSK),D00NVC,Z-Ala-Leu-Nal-Agly-Ile-Val-OMe,Investigative,CCC(C)C(C(=O)NC(C(C)C)C(=O)OC)NC(=O)NNC(=O)C(CC1=CC=CC2=CC=CC=C21)NC(=O)C(CC(C)C)NC(=O)C(C)NC(=O)OCC3=CC=CC=C3
+CTSK,Cathepsin K (CTSK),D01BIZ,Z-Arg-Leu-Val-Agly-Trp-Val-Ala-NH2,Investigative,CC(C)CC(C(=O)NC(C(C)C)C(=O)NNC(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(C(C)C)C(=O)NC(C)C(=O)N)NC(=O)C(CCCN=C(N)N)NC(=O)OCC3=CC=CC=C3
+CTSK,Cathepsin K (CTSK),D01JGB,4-cyclooctyl-6-propylpyrimidine-2-carbonitrile,Investigative,CCCC1=CC(=NC(=N1)C#N)C2CCCCCCC2
+CTSK,Cathepsin K (CTSK),D01TFO,Z-Ala-Leu-lle-Agly-Ile-Val-OMe,Investigative,CCC(C)C(C(=O)NNC(=O)NC(C(C)CC)C(=O)NC(C(C)C)C(=O)OC)NC(=O)C(CC(C)C)NC(=O)C(C)NC(=O)OCC1=CC=CC=C1
+CTSK,Cathepsin K (CTSK),D03ETT,Z-Ala-Leu-His-Agly-Ile-Val-OMe,Investigative,CCC(C)C(C(=O)NC(C(C)C)C(=O)OC)NC(=O)NNC(=O)C(CC1=CN=CN1)NC(=O)C(CC(C)C)NC(=O)C(C)NC(=O)OCC2=CC=CC=C2
+CTSK,Cathepsin K (CTSK),D03FJH,Z-Arg-Leu-Val-Agly-Ile-Val-Trp-NH2,Investigative,CCC(C)C(C(=O)NC(C(C)C)C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)OC)NC(=O)NNC(=O)C(C(C)C)NC(=O)C(CC(C)C)NC(=O)C(CCCN=C(N)N)NC(=O)OCC3=CC=CC=C3
+CTSK,Cathepsin K (CTSK),D03VHO,Z-Ala-Leu-Tyr(Me)-Agly-Ile-Val-OMe,Investigative,CCC(C)C(C(=O)NC(C(C)C)C(=O)OC)NC(=O)NNC(=O)C(CC1=CC=C(C=C1)OC)NC(=O)C(CC(C)C)NC(=O)C(C)NC(=O)OCC2=CC=CC=C2
+CTSK,Cathepsin K (CTSK),D04BGT,4-propyl-6-m-tolylpyrimidine-2-carbonitrile,Investigative,CCCC1=CC(=NC(=N1)C#N)C2=CC=CC(=C2)C
+CTSK,Cathepsin K (CTSK),D05WZF,"P2,P3 Ketoamide derivative",Investigative,CN(C)S(=O)(=O)NCCCCC(C(=O)C(=O)NCC1=CN=CC=C1)NC(=O)OCC2(CCC2)CC3=CC=C(C=C3)F
+CTSK,Cathepsin K (CTSK),D06QJT,Z-leu-Val-Agly-Val-OBzl,Investigative,CC(C)CC(C(=O)NC(C(C)C)C(=O)NNC(=O)NC(C(C)C)C(=O)OCC1=CC=CC=C1)NC(=O)OCC2=CC=CC=C2
+CTSK,Cathepsin K (CTSK),D07JLV,Z-Ala-Leu-lle-Agly-Ile-Val-NHBzl,Investigative,CCC(C)C(C(=O)NC(C(C)C)C(=O)NCC1=CC=CC=C1)NC(=O)NNC(=O)C(CC(C)C)NC(=O)C(CC(C)C)NC(=O)C(C)NC(=O)OCC2=CC=CC=C2
+CTSK,Cathepsin K (CTSK),D07RDV,Z-Ala-Leu-Phe-Agly-Ile-Val-OMe,Investigative,CCC(C)C(C(=O)NC(C(C)C)C(=O)OC)NC(=O)NNC(=O)C(CC1=CC=CC=C1)NC(=O)C(CC(C)C)NC(=O)C(C)NC(=O)OCC2=CC=CC=C2
+CTSK,Cathepsin K (CTSK),D0A7ER,N-(tert-butoxycarbonyl)-norvalyl-glycine-nitrile,Investigative,CCCC(C(=O)NCC#N)NC(=O)OC(C)(C)C
+CTSK,Cathepsin K (CTSK),D0G2QG,PMID16290936C1b,Investigative,CCCCC(C=O)NC(=O)OC(C)CC1=CC=CC=C1
+CTSK,Cathepsin K (CTSK),D0H8TE,Z-Arg-Leu-Val-Agly-Ala-Gly-NH2,Investigative,CC(C)CC(C(=O)NC(C(C)C)C(=O)NNC(=O)NC(C)C(=O)NCC(=O)N)NC(=O)C(CCCN=C(N)N)NC(=O)OCC1=CC=CC=C1
+CTSK,Cathepsin K (CTSK),D0N7BP,Z-Arg-Leu-Val-Agly-Val-Ala-NH2,Investigative,CC(C)CC(C(=O)NC(C(C)C)C(=O)NNC(=O)NC(C(C)C)C(=O)NC(C)C(=O)N)NC(=O)C(CCCN=C(N)N)NC(=O)OCC1=CC=CC=C1
+CTSK,Cathepsin K (CTSK),D0Q4YY,Z-Arg-Leu-Val-Agly-Ileu-Val-OMe,Investigative,CCC(C)C(C(=O)NC(C(C)C)C(=O)OC)NC(=O)NNC(=O)C(C(C)C)NC(=O)C(CC(C)C)NC(=O)C(CCCN=C(N)N)NC(=O)OCC1=CC=CC=C1
+CTSK,Cathepsin K (CTSK),D0T7QF,(S)-tert-butyl 1-oxohexan-2-ylcarbamate,Investigative,CCCCC(C=O)NC(=O)OC(C)(C)C
+CTSK,Cathepsin K (CTSK),D0U4TY,4-cycloheptyl-6-propylpyrimidine-2-carbonitrile,Investigative,CCCC1=CC(=NC(=N1)C#N)C2CCCCCC2
+CTSK,Cathepsin K (CTSK),D01YNC,N-(tert-butoxycarbonyl)-isoleucyl-glycine-nitrile,Investigative,CCC(C)C(C(=O)NCC#N)NC(=O)OC(C)(C)C
+CTSK,Cathepsin K (CTSK),D06VIP,N-(tert-butoxycarbonyl)-valyl-glycine-nitrile,Investigative,CC(C)C(C(=O)NCC#N)NC(=O)OC(C)(C)C
+CTSK,Cathepsin K (CTSK),D07FLB,N-(tert-butoxycarbonyl)-norleucyl-glycine-nitrile,Investigative,CCCCC(C(=O)NCC#N)NC(=O)OC(C)(C)C
+CTSK,Cathepsin K (CTSK),D07RSA,N-(4-phenylbenzoyl)-phenylalanyl-glycine-nitrile,Investigative,C1=CC=C(C=C1)CC(C(=O)NCC#N)NC(=O)C2=CC=C(C=C2)C3=CC=CC=C3
+CTSK,Cathepsin K (CTSK),D09AHN,N-(tert-butoxycarbonyl)-leucyl-glycine-nitrile,Investigative,CC(C)CC(C(=O)NCC#N)NC(=O)OC(C)(C)C
+CTSK,Cathepsin K (CTSK),D0A8OV,N-acetyl-phenylalanyl-glycine-nitrile,Investigative,CC(=O)NC(CC1=CC=CC=C1)C(=O)NCC#N
+CTSK,Cathepsin K (CTSK),D0G8OD,N-(benzyloxycarbonyl)-leucyl-glycine-nitrile,Investigative,CC(C)CC(C(=O)NCC#N)NC(=O)OCC1=CC=CC=C1
+CTSK,Cathepsin K (CTSK),D0JN8Q,N-benzoyl-phenylalanyl-glycine-nitrile,Investigative,C1=CC=C(C=C1)CC(C(=O)NCC#N)NC(=O)C2=CC=CC=C2
+CTSK,Cathepsin K (CTSK),D0U0XG,N-(tert-butoxycarbonyl)-methionyl-glycine-nitrile,Investigative,CC(C)(C)OC(=O)NC(CCSC)C(=O)NCC#N
+CTSK,Cathepsin K (CTSK),D0VE0F,(S)-1-benzylcyclopentyl 1-oxohexan-2-ylcarbamate,Investigative,CCCCC(C=O)NC(=O)OC1(CCCC1)CC2=CC=CC=C2
+CTSK,Cathepsin K (CTSK),D0D0LD,L-873724,Investigative,CC(C)CC(C(=O)NCC#N)NC(C1=CC=C(C=C1)C2=CC=C(C=C2)S(=O)(=O)C)C(F)(F)F
+CTSK,Cathepsin K (CTSK),D0L9VP,GNF-PF-5434,Investigative,CC(C)CC(C(=O)NC(CCC1=CC=CC=C1)C=CS(=O)(=O)C2=CC=CC=C2)NC(=O)N3CCOCC3
+EGFR,Epidermal growth factor receptor (EGFR),D03WPP,Necitumumab,Approved,
+EGFR,Epidermal growth factor receptor (EGFR),D05GGP,HEGF,Approved,
+EGFR,Epidermal growth factor receptor (EGFR),D07POC,Erlotinib,Approved,COCCOC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=CC(=C3)C#C)OCCOC
+EGFR,Epidermal growth factor receptor (EGFR),D09XZB,Gefitinib,Approved,COC1=C(C=C2C(=C1)N=CN=C2NC3=CC(=C(C=C3)F)Cl)OCCCN4CCOCC4
+EGFR,Epidermal growth factor receptor (EGFR),D0HU9H,Panitumumab,Approved,
+EGFR,Epidermal growth factor receptor (EGFR),D0N5OV,Cetuximab,Approved,
+EGFR,Epidermal growth factor receptor (EGFR),D05UFG,BIBW 2992,Approved,CN(C)CC=CC(=O)NC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC(=C(C=C3)F)Cl)OC4CCOC4
+EGFR,Epidermal growth factor receptor (EGFR),D07YDE,Nitroglycerin,Approved,C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]
+EGFR,Epidermal growth factor receptor (EGFR),D08TPS,Epidermal growth factor,Approved,CCC(C)C(C(=O)NC(CCC(=O)O)C(=O)NC(CO)C(=O)NC(CC(C)C)C(=O)NC(CC(=O)O)C(=O)NC(CO)C(=O)NC(CC1=CC=C(C=C1)O)C(=O)NC(C(C)O)C(=O)NC(CS)C(=O)NC(CC(=O)N)C(=O)NC(CS)C(=O)NC(C(C)C)C(=O)NC(C(C)CC)C(=O)NCC(=O)NC(CC2=CC=C(C=C2)O)C(=O)NC(CO)C(=O)NCC(=O)NC(CC(=O)O)C(=O)NC(CCCNC(=N)N)C(=O)NC(CS)C(=O)NC(CCC(=O)N)C(=O)NC(C(C)O)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC(=O)O)C(=O)NC(CC(C)C)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC3=CNC4=CC=CC=C43)C(=O)NC(CC5=CNC6=CC=CC=C65)C(=O)NC(CCC(=O)O)C(=O)NC(CC(C)C)C(=O)NC(CCCNC(=N)N)C(=O)O)NC(=O)C(CC7=CN=CN7)NC(=O)C(CCSC)NC(=O)C(CS)NC(=O)C(C(C)C)NC(=O)CNC(=O)CNC(=O)C(CC(=O)N)NC(=O)C(CC(C)C)NC(=O)C(CS)NC(=O)C(CC8=CC=C(C=C8)O)NC(=O)CNC(=O)C(CC(=O)O)NC(=O)C(CC9=CC=C(C=C9)O)NC(=O)C(CO)NC(=O)C(CO)NC(=O)C1CCCN1C(=O)C(CS)NC(=O)CNC(=O)C1CCCN1C(=O)C(CC1=CC=C(C=C1)O)NC(=O)C(CO)NC(=O)C(CC(=O)N)N
+EGFR,Epidermal growth factor receptor (EGFR),D0O8GK,Osimertinib,Approved,CN1C=C(C2=CC=CC=C21)C3=NC(=NC=C3)NC4=C(C=C(C(=C4)NC(=O)C=C)N(C)CCN(C)C)OC
+EGFR,Epidermal growth factor receptor (EGFR),D0U1ZV,NERATINIB MALEATE,Approved,CCOC1=C(C=C2C(=C1)N=CC(=C2NC3=CC(=C(C=C3)OCC4=CC=CC=N4)Cl)C#N)NC(=O)C=CCN(C)C.C(=CC(=O)O)C(=O)O
+EGFR,Epidermal growth factor receptor (EGFR),DQ5X1Z,Amivantamab,Approved,
+EGFR,Epidermal growth factor receptor (EGFR),D03MNN,SKI-758,Approved,CN1CCN(CC1)CC2=CC(=CO2)C3=C(C=C4C(=C3)N=CC(=C4NC5=CC(=C(C=C5Cl)Cl)OC)C#N)OC
+EGFR,Epidermal growth factor receptor (EGFR),D06XXH,Dacomitinib,Approved,COC1=C(C=C2C(=C1)N=CN=C2NC3=CC(=C(C=C3)F)Cl)NC(=O)C=CCN4CCCCC4
+EGFR,Epidermal growth factor receptor (EGFR),D08CDI,Lapatinib,Approved,CS(=O)(=O)CCNCC1=CC=C(O1)C2=CC3=C(C=C2)N=CN=C3NC4=CC(=C(C=C4)OCC5=CC(=CC=C5)F)Cl
+EGFR,Epidermal growth factor receptor (EGFR),D0F0ZE,Merimepodib,Approved,COC1=C(C=CC(=C1)NC(=O)NC2=CC=CC(=C2)CNC(=O)OC3CCOC3)C4=CN=CO4
+EGFR,Epidermal growth factor receptor (EGFR),D0G6QF,Vandetanib,Approved,CN1CCC(CC1)COC2=C(C=C3C(=C2)N=CN=C3NC4=C(C=C(C=C4)Br)F)OC
+EGFR,Epidermal growth factor receptor (EGFR),D0W5HK,Sorafenib,Approved,CNC(=O)C1=NC=CC(=C1)OC2=CC=C(C=C2)NC(=O)NC3=CC(=C(C=C3)Cl)C(F)(F)F
+EGFR,Epidermal growth factor receptor (EGFR),D06WRJ,Icotinib hydrochloride,Registered,C#CC1=CC(=CC=C1)NC2=NC=NC3=CC4=C(C=C32)OCCOCCOCCO4.Cl
+EGFR,Epidermal growth factor receptor (EGFR),D05FRP,Rindopepimut,Phase 3,
+EGFR,Epidermal growth factor receptor (EGFR),D0CR8H,SYM-004,Phase 3,
+EGFR,Epidermal growth factor receptor (EGFR),D0FJ1W,DE-766,Phase 3,
+EGFR,Epidermal growth factor receptor (EGFR),D0K7FY,EGF816,Phase 3,CC1=NC=CC(=C1)C(=O)NC2=NC3=C(N2C4CCCCN(C4)C(=O)C=CCN(C)C)C(=CC=C3)Cl
+EGFR,Epidermal growth factor receptor (EGFR),D0M4AV,CO-1686,Phase 3,CC(=O)N1CCN(CC1)C2=CC(=C(C=C2)NC3=NC=C(C(=N3)NC4=CC(=CC=C4)NC(=O)C=C)C(F)(F)F)OC
+EGFR,Epidermal growth factor receptor (EGFR),D0R4PW,Zalutumumab,Phase 3,
+EGFR,Epidermal growth factor receptor (EGFR),DDH8L6,Almonertinib,Phase 3,CN(C)CCN(C)C1=CC(=C(C=C1NC(=O)C=C)NC2=NC=CC(=N2)C3=CN(C4=CC=CC=C43)C5CC5)OC
+EGFR,Epidermal growth factor receptor (EGFR),DWK96T,ASP1929,Phase 3,
+EGFR,Epidermal growth factor receptor (EGFR),DXZ31K,A140,Phase 3,
+EGFR,Epidermal growth factor receptor (EGFR),D09BKY,Bevacizumab + Erlotinib,Phase 3,
+EGFR,Epidermal growth factor receptor (EGFR),D0Q9CY,HKI-272,Phase 3,CCOC1=C(C=C2C(=C1)N=CC(=C2NC3=CC(=C(C=C3)OCC4=CC=CC=N4)Cl)C#N)NC(=O)C=CCN(C)C
+EGFR,Epidermal growth factor receptor (EGFR),D0F3KC,Indium-111,Phase 2/3,
+EGFR,Epidermal growth factor receptor (EGFR),D00NYJ,Varlitinib,Phase 2/3,CC1COC(=N1)NC2=CC3=C(C=C2)N=CN=C3NC4=CC(=C(C=C4)OCC5=NC=CS5)Cl
+EGFR,Epidermal growth factor receptor (EGFR),D02BYZ,ASP8273,Phase 2,CCC1=C(N=C(C(=N1)C(=O)N)NC2=CC=C(C=C2)N3CCC(CC3)N4CCN(CC4)C)OC5CCN(C5)C(=O)C=C
+EGFR,Epidermal growth factor receptor (EGFR),D06XIT,ABT-414,Phase 2,
+EGFR,Epidermal growth factor receptor (EGFR),D0A6CC,Depatuxizumab,Phase 2,
+EGFR,Epidermal growth factor receptor (EGFR),D0BZ7V,Matuzumab,Phase 2,
+EGFR,Epidermal growth factor receptor (EGFR),D0C3LL,HER1-VSSP vaccine,Phase 2,
+EGFR,Epidermal growth factor receptor (EGFR),D0FN4T,RM-1929,Phase 2,
+EGFR,Epidermal growth factor receptor (EGFR),D0K9MC,CetuGEX,Phase 2,
+EGFR,Epidermal growth factor receptor (EGFR),D0P9RG,ABX-EGF,Phase 2,
+EGFR,Epidermal growth factor receptor (EGFR),D0S3PO,Pelitinib,Phase 2,CCOC1=C(C=C2C(=C1)N=CC(=C2NC3=CC(=C(C=C3)F)Cl)C#N)NC(=O)C=CCN(C)C
+EGFR,Epidermal growth factor receptor (EGFR),D00YER,HM-78136B,Phase 2,COC1=C(C=C2C(=C1)N=CN=C2NC3=C(C(=C(C=C3)Cl)Cl)F)OC4CCN(CC4)C(=O)C=C
+EGFR,Epidermal growth factor receptor (EGFR),D03UKJ,Pazopanib + Tyverb/Tykerb,Phase 2,failed
+EGFR,Epidermal growth factor receptor (EGFR),D09BZJ,MEHD-7945A,Phase 2,
+EGFR,Epidermal growth factor receptor (EGFR),D0T5JS,TT-100,Phase 2,
+EGFR,Epidermal growth factor receptor (EGFR),D0U4FF,BMS-599626,Phase 2,CC1=C2C(=NC=NN2C=C1NC(=O)OCC3COCCN3)NC4=CC5=C(C=C4)N(N=C5)CC6=CC(=CC=C6)F
+EGFR,Epidermal growth factor receptor (EGFR),DUW81M,Tarloxotinib,Phase 2,CN1C=NC(=C1C[N+](C)(C)CC=CC(=O)NC2=NC=C3C(=C2)C(=NC=N3)NC4=CC(=C(C=C4)Cl)Br)[N+](=O)[O-]
+EGFR,Epidermal growth factor receptor (EGFR),D0P6DJ,VATALANIB,Phase 2,C1=CC=C2C(=C1)C(=NN=C2NC3=CC=C(C=C3)Cl)CC4=CC=NC=C4
+EGFR,Epidermal growth factor receptor (EGFR),D0R6UV,BMS-690514,Phase 2,COC1=CC=CC(=C1)NC2=NC=NN3C2=C(C=C3)CN4CCC(C(C4)O)N
+EGFR,Epidermal growth factor receptor (EGFR),D0YB3W,CI-1033,Phase 2,C=CC(=O)NC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC(=C(C=C3)F)Cl)OCCCN4CCOCC4
+EGFR,Epidermal growth factor receptor (EGFR),D04DHZ,CART-EGFR,Phase 1/2,
+EGFR,Epidermal growth factor receptor (EGFR),D05ETC,SN-32793,Phase 1/2,
+EGFR,Epidermal growth factor receptor (EGFR),D0G1ZU,EGFR CART,Phase 1/2,
+EGFR,Epidermal growth factor receptor (EGFR),D0S8BG,EMD 55900,Phase 1/2,
+EGFR,Epidermal growth factor receptor (EGFR),DC1GH7,TAK-186,Phase 1/2,
+EGFR,Epidermal growth factor receptor (EGFR),DF0PR6,ZN-e4,Phase 1/2,
+EGFR,Epidermal growth factor receptor (EGFR),DWQ6J1,EMB-01,Phase 1/2,
+EGFR,Epidermal growth factor receptor (EGFR),D0B4OK,Sym015,Phase 1/2,
+EGFR,Epidermal growth factor receptor (EGFR),D9FJ5V,BDTX-189,Phase 1/2,C=CC(=O)NC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC(=C(C=C3)OCC4=CC=CC=N4)Cl)OCCN5CCOCC5
+EGFR,Epidermal growth factor receptor (EGFR),DK8QG3,AFM24,Phase 1/2,
+EGFR,Epidermal growth factor receptor (EGFR),D0FF2G,Sym013,Phase 1/2,
+EGFR,Epidermal growth factor receptor (EGFR),D0V4XY,S-222611,Phase 1b,
+EGFR,Epidermal growth factor receptor (EGFR),D00KML,SYN004,Phase 1,
+EGFR,Epidermal growth factor receptor (EGFR),D00RMC,BIBX-1382,Phase 1,CN1CCC(CC1)NC2=NC=C3C(=N2)C(=NC=N3)NC4=CC(=C(C=C4)F)Cl
+EGFR,Epidermal growth factor receptor (EGFR),D04HSH,IMGN289,Phase 1,
+EGFR,Epidermal growth factor receptor (EGFR),D04OLK,AST-1306,Phase 1,C=CC(=O)NC1=CC2=C(C=C1)N=CN=C2NC3=CC(=C(C=C3)OCC4=CC(=CC=C4)F)Cl
+EGFR,Epidermal growth factor receptor (EGFR),D05LMC,AMG 595,Phase 1,
+EGFR,Epidermal growth factor receptor (EGFR),D0E7RC,HER-2/HER-1 vaccine,Phase 1,
+EGFR,Epidermal growth factor receptor (EGFR),D0I7ZH,EGFR806-specific CAR T cell,Phase 1,
+EGFR,Epidermal growth factor receptor (EGFR),D0JS0W,PF-05230907,Phase 1,
+EGFR,Epidermal growth factor receptor (EGFR),D0N3PC,MR1-1,Phase 1,
+EGFR,Epidermal growth factor receptor (EGFR),D0T0SE,Anti-EGFR CAR T,Phase 1,
+EGFR,Epidermal growth factor receptor (EGFR),D0X7BN,AP32788,Phase 1,
+EGFR,Epidermal growth factor receptor (EGFR),D68RMI,CLN-081,Phase 1,
+EGFR,Epidermal growth factor receptor (EGFR),D01IJM,LY3164530,Phase 1,
+EGFR,Epidermal growth factor receptor (EGFR),D01NAP,MM-151,Phase 1,
+EGFR,Epidermal growth factor receptor (EGFR),D08JAN,Cipatinib,Phase 1,
+EGFR,Epidermal growth factor receptor (EGFR),D0JW2O,Anti-HER3/EGFR DAF,Phase 1,
+EGFR,Epidermal growth factor receptor (EGFR),D0U7XJ,BCA101,Phase 1,
+EGFR,Epidermal growth factor receptor (EGFR),D0Z4RC,CUDC-101,Phase 1,COC1=C(C=C2C(=C1)N=CN=C2NC3=CC=CC(=C3)C#C)OCCCCCCC(=O)NO
+EGFR,Epidermal growth factor receptor (EGFR),D6JM8Z,SI-B001,Phase 1,
+EGFR,Epidermal growth factor receptor (EGFR),D73FNL,CX-904,Phase 1,
+EGFR,Epidermal growth factor receptor (EGFR),DN47VK,AZD9592,Phase 1,
+EGFR,Epidermal growth factor receptor (EGFR),DR4ND6,D2C7,Phase 1,
+EGFR,Epidermal growth factor receptor (EGFR),DV8I4Q,MCLA-158,Phase 1,
+EGFR,Epidermal growth factor receptor (EGFR),D0U3XL,JNJ-26483327,Phase 1,
+EGFR,Epidermal growth factor receptor (EGFR),D0Z2PC,"Pyrrolo[2,3-d]pyrimidine derivative 24",Patented,COCCOC1=CC=C(C=C1)NC2=NC3=C(C=CN3)C(=N2)OC4=CC=CC(=C4)NC(=O)C=C
+EGFR,Epidermal growth factor receptor (EGFR),D07GFF,PKI166,Discontinued in Phase 2,CC(C1=CC=CC=C1)NC2=NC=NC3=C2C=C(N3)C4=CC=C(C=C4)O
+EGFR,Epidermal growth factor receptor (EGFR),D0E2CQ,RG7160,Discontinued in Phase 2,
+EGFR,Epidermal growth factor receptor (EGFR),D0Q7HO,PD-153035,Discontinued in Phase 1,COC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC(=CC=C3)Br)OC
+EGFR,Epidermal growth factor receptor (EGFR),D02RZL,AZD4769,Discontinued in Phase 1,C1=CC=C(C=C1)CCCC(C2=CC=C(C=C2)OCC3=NC4=CC=CC=C4C=C3)SCC(=O)O
+EGFR,Epidermal growth factor receptor (EGFR),D0A9OV,TAK165,Discontinued in Phase 1,C1=CC(=CC=C1CCCCN2C=CN=N2)OCC3=COC(=N3)C=CC4=CC=C(C=C4)C(F)(F)F
+EGFR,Epidermal growth factor receptor (EGFR),D0V2FZ,111In-hEGF,Preclinical,
+EGFR,Epidermal growth factor receptor (EGFR),D0TI4U,EGFR/IGFR tandem adnectin,Preclinical,
+EGFR,Epidermal growth factor receptor (EGFR),D02GFZ,Heparin-EGF-like factor,Terminated,
+EGFR,Epidermal growth factor receptor (EGFR),D03QTP,CGP-52411,Terminated,C1=CC=C(C=C1)NC2=C(C=C3C(=C2)C(=O)NC3=O)NC4=CC=CC=C4
+EGFR,Epidermal growth factor receptor (EGFR),D0HO1S,CGP-53353,Terminated,C1=CC(=CC=C1NC2=C(C=C3C(=C2)C(=O)NC3=O)NC4=CC=C(C=C4)F)F
+EGFR,Epidermal growth factor receptor (EGFR),D0Y1YX,AZD-9935,Terminated,
+EGFR,Epidermal growth factor receptor (EGFR),D00TJF,"N4-(3-chlorophenyl)quinazoline-4,6-diamine",Investigative,C1=CC(=CC(=C1)Cl)NC2=NC=NC3=C2C=C(C=C3)N
+EGFR,Epidermal growth factor receptor (EGFR),D00VZA,"2-benzoyl-3-(3,4-dihydroxyphenyl)acrylonitrile",Investigative,C1=CC=C(C=C1)C(=O)C(=CC2=CC(=C(C=C2)O)O)C#N
+EGFR,Epidermal growth factor receptor (EGFR),D00WZG,"6,7-dimethoxy-4-(3-phenoxyprop-1-ynyl)quinazoline",Investigative,COC1=C(C=C2C(=C1)C(=NC=N2)C#CCOC3=CC=CC=C3)OC
+EGFR,Epidermal growth factor receptor (EGFR),D01NTW,"2-cyano-3-(3,4-dihydroxyphenyl)acrylamide",Investigative,C1=CC(=C(C=C1C=C(C#N)C(=O)N)O)O
+EGFR,Epidermal growth factor receptor (EGFR),D01SQP,HM-61713B,Investigative,
+EGFR,Epidermal growth factor receptor (EGFR),D01WDI,Benzyl-quinazolin-4-yl-amine,Investigative,C1=CC=C(C=C1)CNC2=NC=NC3=CC=CC=C32.Cl
+EGFR,Epidermal growth factor receptor (EGFR),D01WXV,"6,7-diethoxy-4-styrylquinazoline",Investigative,CCOC1=C(C=C2C(=C1)C(=NC=N2)C=CC3=CC=CC=C3)OCC
+EGFR,Epidermal growth factor receptor (EGFR),D02FGG,AFM-21,Investigative,
+EGFR,Epidermal growth factor receptor (EGFR),D02GCE,PD182905,Investigative,
+EGFR,Epidermal growth factor receptor (EGFR),D02KVB,AG 112,Investigative,C1=CC(=CC=C1C=C(C#N)C(=C(C#N)C#N)N)O
+EGFR,Epidermal growth factor receptor (EGFR),D02RIG,"2-(4,5-Dihydroxy-indan-1-ylidene)-malononitrile",Investigative,C1CC(=C(C#N)C#N)C2=C1C(=C(C=C2)O)O
+EGFR,Epidermal growth factor receptor (EGFR),D02ZRO,(3-Bromo-phenyl)-quinazolin-4-yl-amine,Investigative,C1=CC=C2C(=C1)C(=NC=N2)NC3=CC(=CC=C3)Br
+EGFR,Epidermal growth factor receptor (EGFR),D03ATU,PD-158780,Investigative,CNC1=NC=C2C(=C1)C(=NC=N2)NC3=CC(=CC=C3)Br
+EGFR,Epidermal growth factor receptor (EGFR),D03BJB,EGFR inhibitor,Investigative,C1CC1C(=O)NC2=CC=CC(=C2)NC3=NC=NC(=C3)NC4=CC=CC(=C4)C(F)(F)F
+EGFR,Epidermal growth factor receptor (EGFR),D03CVQ,"6,7-diethoxy-4-(4-phenylbut-1-enyl)quinazoline",Investigative,CCOC1=C(C=C2C(=C1)C(=NC=N2)C=CCCC3=CC=CC=C3)OCC
+EGFR,Epidermal growth factor receptor (EGFR),D03MTY,LA22-radioimmunoconjugates,Investigative,
+EGFR,Epidermal growth factor receptor (EGFR),D03WEN,5-acrylamido-N-(3-bromophenyl)-2-hydroxybenzamide,Investigative,C=CC(=O)NC1=CC(=C(C=C1)O)C(=O)NC2=CC(=CC=C2)Br
+EGFR,Epidermal growth factor receptor (EGFR),D03ZIW,ICR 62,Investigative,
+EGFR,Epidermal growth factor receptor (EGFR),D04GCH,Bmab-200,Investigative,
+EGFR,Epidermal growth factor receptor (EGFR),D04HGN,HTS-00213,Investigative,C1=CC(=C(C(=C1)Cl)OCC2=NOC(=N2)CSC3=NN=CN3C4=CC=C(C=C4)C(F)(F)F)Cl
+EGFR,Epidermal growth factor receptor (EGFR),D04LXG,"6,7-diethoxy-4-(5-phenylpent-1-enyl)quinazoline",Investigative,CCOC1=C(C=C2C(=C1)C(=NC=N2)C=CCCCC3=CC=CC=C3)OCC
+EGFR,Epidermal growth factor receptor (EGFR),D05ARF,"N*4*-Benzyl-pyrido[4,3-d]pyrimidine-4,7-diamine",Investigative,C1=CC=C(C=C1)CNC2=NC=NC3=CC(=NC=C32)N
+EGFR,Epidermal growth factor receptor (EGFR),D05MEY,Epitinib,Investigative,CCN1CCN(CC1)C(=O)NC2=C(C=C3C(=C2)C(=NC=N3)NC4=CC=CC(=C4)C#C)OC
+EGFR,Epidermal growth factor receptor (EGFR),D06QEQ,OSI-75,Investigative,
+EGFR,Epidermal growth factor receptor (EGFR),D06UEK,(E)-5-(4-Hydroxybenzylidene)-1-phenethylhydantoin,Investigative,C1=CC=C(C=C1)CCN2C(=CC3=CC=C(C=C3)O)C(=O)NC2=O
+EGFR,Epidermal growth factor receptor (EGFR),D07CZM,HTS-02876,Investigative,C1=CC=C(C=C1)COC2=CC=C(C=C2)N3C(=O)NN=C3SCCS(=O)(=O)C4=CC=CC(=C4)C(F)(F)F
+EGFR,Epidermal growth factor receptor (EGFR),D07IHD,"2-(5,6-Dihydroxy-indan-1-ylidene)-malononitrile",Investigative,C1CC(=C(C#N)C#N)C2=CC(=C(C=C21)O)O
+EGFR,Epidermal growth factor receptor (EGFR),D07UYV,PMID8568816C56,Investigative,CCOC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC(=CC=C3)Br)OCC
+EGFR,Epidermal growth factor receptor (EGFR),D08RXW,MT-062,Investigative,
+EGFR,Epidermal growth factor receptor (EGFR),D09RXX,Anti-EGFR mab,Investigative,
+EGFR,Epidermal growth factor receptor (EGFR),D0A0JL,RG-50810,Investigative,C1=CC(=C(C=C1C=C(C#N)C#N)O)O
+EGFR,Epidermal growth factor receptor (EGFR),D0AC7C,IPS-01003,Investigative,
+EGFR,Epidermal growth factor receptor (EGFR),D0AH2V,RM-6427,Investigative,CCOC(=O)C1=C(C(=O)C2=C(C=C(C=C2O1)O)O)C3=CC(=CC=C3)Br
+EGFR,Epidermal growth factor receptor (EGFR),D0B4PH,"N*4*-(3-Bromo-phenyl)-quinazoline-4,6,7-triamine",Investigative,C1=CC(=CC(=C1)Br)NC2=NC=NC3=CC(=C(C=C32)N)N
+EGFR,Epidermal growth factor receptor (EGFR),D0B8DE,"3-Pyridin-4-yl-quinoline-6,7-diol",Investigative,C1=CN=CC=C1C2=CN=C3C=C(C(=CC3=C2)O)O
+EGFR,Epidermal growth factor receptor (EGFR),D0C5WE,AGT-2000,Investigative,
+EGFR,Epidermal growth factor receptor (EGFR),D0C9KC,"3-(3-Chloro-phenyl)-5,7-dihydroxy-chromen-4-one",Investigative,C1=CC(=CC(=C1)Cl)C2=COC3=CC(=CC(=C3C2=O)O)O
+EGFR,Epidermal growth factor receptor (EGFR),D0CY9O,ON-128,Investigative,
+EGFR,Epidermal growth factor receptor (EGFR),D0D0GS,FHT-2107,Investigative,
+EGFR,Epidermal growth factor receptor (EGFR),D0D0YK,GI-3000,Investigative,
+EGFR,Epidermal growth factor receptor (EGFR),D0DF3Z,"6,7-dimethoxy-N-m-tolylquinazolin-4-amine",Investigative,CC1=CC(=CC=C1)NC2=NC=NC3=CC(=C(C=C32)OC)OC
+EGFR,Epidermal growth factor receptor (EGFR),D0EH6L,"5,6-Bis-p-tolylamino-isoindole-1,3-dione",Investigative,CC1=CC=C(C=C1)NC2=C(C=C3C(=C2)C(=O)NC3=O)NC4=CC=C(C=C4)C
+EGFR,Epidermal growth factor receptor (EGFR),D0EP1G,HTS-05058,Investigative,C1=CC=C2C(=C1)C(=CC3=CN=CN3)C(=O)N2
+EGFR,Epidermal growth factor receptor (EGFR),D0F6FZ,N-(4-m-Tolylamino-quinazolin-7-yl)-acrylamide,Investigative,CC1=CC(=CC=C1)NC2=NC=NC3=C2C=CC(=C3)NC(=O)C=C
+EGFR,Epidermal growth factor receptor (EGFR),D0G4HR,4-(4-(2-nitrovinyl)phenoxysulfonyl)benzoic acid,Investigative,C1=CC(=CC=C1C=C[N+](=O)[O-])OS(=O)(=O)C2=CC=C(C=C2)C(=O)O
+EGFR,Epidermal growth factor receptor (EGFR),D0G9KD,Benzo[g]quinazolin-4-yl-(3-bromo-phenyl)-amine,Investigative,C1=CC=C2C=C3C(=CC2=C1)C(=NC=N3)NC4=CC(=CC=C4)Br
+EGFR,Epidermal growth factor receptor (EGFR),D0GB7F,ARX-AHD,Investigative,
+EGFR,Epidermal growth factor receptor (EGFR),D0H3FX,TGF alpha,Investigative,
+EGFR,Epidermal growth factor receptor (EGFR),D0H3UI,AG 9,Investigative,COC1=CC=C(C=C1)C=C(C#N)C#N
+EGFR,Epidermal growth factor receptor (EGFR),D0HM5W,"N*4*-(3-Bromo-phenyl)-quinazoline-4,6-diamine",Investigative,C1=CC(=CC(=C1)Br)NC2=NC=NC3=C2C=C(C=C3)N
+EGFR,Epidermal growth factor receptor (EGFR),D0I7RA,"4-(5-Bromoindole-3-yl)-6,7-dimethoxyquinazoline",Investigative,COC1=C(C=C2C(=C1)C(=NC=N2)C3=CNC4=C3C=C(C=C4)Br)OC
+EGFR,Epidermal growth factor receptor (EGFR),D0J3EA,Theliatinib,Investigative,CN1CCC2C1CN(C2)C(=O)NC3=C(C=C4C(=C3)C(=NC=N4)NC5=CC=CC(=C5)C#C)OC
+EGFR,Epidermal growth factor receptor (EGFR),D0J9WO,"4-(3-Bromo-phenylamino)-quinazoline-6,7-diol",Investigative,C1=CC(=CC(=C1)Br)NC2=C3C=C(C(=O)C=C3NC=N2)O
+EGFR,Epidermal growth factor receptor (EGFR),D0K2VO,"6,7-dimethoxy-4-(4-phenylbut-1-ynyl)quinazoline",Investigative,COC1=C(C=C2C(=C1)C(=NC=N2)C#CCCC3=CC=CC=C3)OC
+EGFR,Epidermal growth factor receptor (EGFR),D0K2YY,"4-(2-nitroprop-1-enyl)benzene-1,2-diol",Investigative,CC(=CC1=CC(=C(C=C1)O)O)[N+](=O)[O-]
+EGFR,Epidermal growth factor receptor (EGFR),D0K3FG,EDP-13,Investigative,
+EGFR,Epidermal growth factor receptor (EGFR),D0K7GD,"N*4*-(3-Bromo-phenyl)-quinazoline-4,7-diamine",Investigative,C1=CC(=CC(=C1)Br)NC2=NC=NC3=C2C=CC(=C3)N
+EGFR,Epidermal growth factor receptor (EGFR),D0KN1L,(S)-benzyl 4-chloro-3-oxobutan-2-ylcarbamate,Investigative,CC(C(=O)CCl)NC(=O)OCC1=CC=CC=C1
+EGFR,Epidermal growth factor receptor (EGFR),D0L3SN,"4-(2-nitrovinyl)benzene-1,2-diol",Investigative,C1=CC(=C(C=C1C=C[N+](=O)[O-])O)O
+EGFR,Epidermal growth factor receptor (EGFR),D0NH7M,AG-538,Investigative,C1=CC(=C(C=C1C=C(C#N)C(=O)C2=CC(=C(C=C2)O)O)O)O
+EGFR,Epidermal growth factor receptor (EGFR),D0NJ3Q,WZ-3146,Investigative,CN1CCN(CC1)C2=CC=C(C=C2)NC3=NC=C(C(=N3)OC4=CC=CC(=C4)NC(=O)C=C)Cl
+EGFR,Epidermal growth factor receptor (EGFR),D0O9UR,2-methoxy-4-(2-nitrovinyl)phenol,Investigative,COC1=C(C=CC(=C1)C=C[N+](=O)[O-])O
+EGFR,Epidermal growth factor receptor (EGFR),D0P0JW,MG-111,Investigative,CCC(C)C(C(=O)NCC(=O)NC(CCC(=O)O)C(=O)NC(CCCNC(=N)N)C(=O)NC(CS)C(=O)NC(CCC(=O)N)C(=O)NC(CC1=CC=C(C=C1)O)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC(=O)O)C(=O)NC(CC(C)C)C(=O)NC(CCCCN)C(=O)NC(CC2=CNC3=CC=CC=C32)C(=O)NC(CC4=CNC5=CC=CC=C54)C(=O)NC(CCC(=O)O)C(=O)NC(CC(C)C)C(=O)NC(CCCNC(=N)N)C(=O)O)NC(=O)C(CC6=CC=C(C=C6)O)NC(=O)CNC(=O)C(C(C)C)NC(=O)C(C(C)C)NC(=O)C(CS)NC(=O)C(CC(=O)N)NC(=O)C(CS)NC(=O)C(C)NC(=O)C(CC7=CC=C(C=C7)O)NC(=O)C(CCCCN)NC(=O)C(CC(=O)O)NC(=O)C(CC(C)C)NC(=O)C(C)NC(=O)C(CCC(=O)O)NC(=O)C(C(C)CC)NC(=O)C(CC8=CC=C(C=C8)O)NC(=O)C(CCSC)NC(=O)C(CS)NC(=O)C(C(C)C)NC(=O)CNC(=O)C(CC(=O)O)NC(=O)C(CC9=CN=CN9)NC(=O)C(CC(C)C)NC(=O)C(CS)NC(=O)C(CC1=CC=C(C=C1)O)NC(=O)CNC(=O)C(CC(=O)O)NC(=O)C(CC1=CN=CN1)NC(=O)C(CO)NC(=O)C(CC(C)C)NC(=O)C1CCCN1C(=O)C(CS)NC(=O)C(CCC(=O)O)NC(=O)C(CO)NC(=O)C(CC(=O)O)NC(=O)C(CO)NC(=O)C(CC(=O)N)N
+EGFR,Epidermal growth factor receptor (EGFR),D0P2GE,"6,7-dimethoxy-4-(2-phenylethynyl)quinazoline",Investigative,COC1=C(C=C2C(=C1)C(=NC=N2)C#CC3=CC=CC=C3)OC
+EGFR,Epidermal growth factor receptor (EGFR),D0R2RV,Anti-EGFR humanized mabs,Investigative,
+EGFR,Epidermal growth factor receptor (EGFR),D0S9QP,"4-biphenyl-2-ylethynyl-6,7-dimethoxy-quinazoline",Investigative,COC1=C(C=C2C(=C1)C(=NC=N2)C#CC3=CC=CC=C3C4=CC=CC=C4)OC
+EGFR,Epidermal growth factor receptor (EGFR),D0T7OS,AL-6802,Investigative,
+EGFR,Epidermal growth factor receptor (EGFR),D0U6WB,BPIQ-I,Investigative,CN1C=NC2=C1C=C3C(=C2)C(=NC=N3)NC4=CC(=CC=C4)Br
+EGFR,Epidermal growth factor receptor (EGFR),D0V0JV,mabionHER2,Investigative,
+EGFR,Epidermal growth factor receptor (EGFR),D0W1BE,4-(2-nitrovinyl)phenol,Investigative,C1=CC(=CC=C1C=C[N+](=O)[O-])O
+EGFR,Epidermal growth factor receptor (EGFR),D0W2PQ,4-acrylamido-N-(3-bromophenyl)-2-hydroxybenzamide,Investigative,C=CC(=O)NC1=CC(=C(C=C1)C(=O)NC2=CC(=CC=C2)Br)O
+EGFR,Epidermal growth factor receptor (EGFR),D0WD8R,MDP-01,Investigative,
+EGFR,Epidermal growth factor receptor (EGFR),D0X4UE,"N4-(3-methylphenyl)-4,6-quinazolinediamine",Investigative,CC1=CC(=CC=C1)NC2=NC=NC3=C2C=C(C=C3)N
+EGFR,Epidermal growth factor receptor (EGFR),D0Y1LD,RX-1792,Investigative,
+EGFR,Epidermal growth factor receptor (EGFR),D0Y2AM,(3-Bromo-phenyl)-(5-nitro-quinazolin-4-yl)-amine,Investigative,C1=CC(=CC(=C1)Br)NC2=NC=NC3=C2C(=CC=C3)[N+](=O)[O-]
+EGFR,Epidermal growth factor receptor (EGFR),D0Y6MD,NRC-2694,Investigative,COC1=C(C=C2C(=C1)N=CN=C2NC3=CC=CC(=C3)C#C)OCCCN4CCOCC4
+EGFR,Epidermal growth factor receptor (EGFR),D0ZT9D,Cochliobolic acid,Investigative,CCC(C)C=CC(=O)C(=O)C=CC=CC=CC=CC=CC=CC1CC(C(O1)C(=O)O)O
+EGFR,Epidermal growth factor receptor (EGFR),D01VFR,PD-168393,Investigative,C=CC(=O)NC1=CC2=C(C=C1)N=CN=C2NC3=CC(=CC=C3)Br
+EGFR,Epidermal growth factor receptor (EGFR),D01WYI,N-(4-m-Tolylamino-quinazolin-6-yl)-acrylamide,Investigative,CC1=CC(=CC=C1)NC2=NC=NC3=C2C=C(C=C3)NC(=O)C=C
+EGFR,Epidermal growth factor receptor (EGFR),D03HLH,"4-(3-Bromo-phenoxy)-6,7-dimethoxy-quinazoline",Investigative,COC1=C(C=C2C(=C1)C(=NC=N2)OC3=CC(=CC=C3)Br)OC
+EGFR,Epidermal growth factor receptor (EGFR),D05QMN,"4-(3-Bromo-phenoxy)-6,7-dimethoxy-quinoline",Investigative,COC1=CC2=C(C=CN=C2C=C1OC)OC3=CC(=CC=C3)Br
+EGFR,Epidermal growth factor receptor (EGFR),D0AM9O,YH013,Investigative,
+EGFR,Epidermal growth factor receptor (EGFR),D0D9TU,LAVENDUSTIN A,Investigative,C1=CC=C(C(=C1)CN(CC2=C(C=CC(=C2)O)O)C3=CC(=C(C=C3)O)C(=O)O)O
+EGFR,Epidermal growth factor receptor (EGFR),D0J2CP,PF 5208766,Investigative,
+EGFR,Epidermal growth factor receptor (EGFR),D0J5SK,6-chloro-N-(3-chlorophenyl)quinazolin-4-amine,Investigative,C1=CC(=CC(=C1)Cl)NC2=NC=NC3=C2C=C(C=C3)Cl
+EGFR,Epidermal growth factor receptor (EGFR),D0N8TQ,N-(4-(phenylamino)quinazolin-6-yl)acrylamide,Investigative,C=CC(=O)NC1=CC2=C(C=C1)N=CN=C2NC3=CC=CC=C3
+EGFR,Epidermal growth factor receptor (EGFR),D0Q3GG,AG-213,Investigative,C1=CC(=C(C=C1C=C(C#N)C(=S)N)O)O
+EGFR,Epidermal growth factor receptor (EGFR),D0Q8GX,SYM-011,Investigative,
+EGFR,Epidermal growth factor receptor (EGFR),D0W6CE,10-hydroxy-18-methoxybetaenone,Investigative,CCC(C)C1C(C2C(CC(CC2(C(=O)C1(C)O)O)(C)O)C)(C)C(=O)C=COC
+EGFR,Epidermal growth factor receptor (EGFR),D0X4OU,4557W,Investigative,COC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=C(C=C3)OCC4=CC=CC=C4)OC
+EGFR,Epidermal growth factor receptor (EGFR),D0ZH1U,Tyrphostin ag-1478,Investigative,COC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC(=CC=C3)Cl)OC
+EGFR,Epidermal growth factor receptor (EGFR),D00TZD,CL-387785,Investigative,CC#CC(=O)NC1=CC2=C(C=C1)N=CN=C2NC3=CC(=CC=C3)Br
+EGFR,Epidermal growth factor receptor (EGFR),D05FFT,HDS-029,Investigative,CC#CC(=O)NC1=NC=C2C(=C1)C(=NC=N2)NC3=CC(=C(C=C3)F)Cl
+EGFR,Epidermal growth factor receptor (EGFR),D0E5IP,WHI-P154,Investigative,COC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC(=C(C=C3)O)Br)OC
+EGFR,Epidermal growth factor receptor (EGFR),D06BJG,PMID24915291C38,Investigative,CC1=C(C=C(C=C1)NC(=O)C2=CC(=CC=C2)C(F)(F)F)C(=O)NC3=CN=C(N=C3)NC4=CC(=CC=C4)NC(=O)CNC(=O)C=C
+EGFR,Epidermal growth factor receptor (EGFR),D0D5EW,HKI-9924129,Investigative,CC1=C(C=CC(=C1)NC2=NC=C3C=C(C(=O)N(C3=N2)C)C4=C(C=CC=C4Cl)Cl)F
+EGFR,Epidermal growth factor receptor (EGFR),D0GW4Q,PD-0173956,Investigative,CN1C2=NC(=NC=C2C=C(C1=O)C3=C(C=CC=C3Cl)Cl)NC4=CC=C(C=C4)F
+EGFR,Epidermal growth factor receptor (EGFR),D0P3JW,PD-0166326,Investigative,CN1C2=NC(=NC=C2C=C(C1=O)C3=C(C=CC=C3Cl)Cl)NC4=CC=CC(=C4)CO
+EGFR,Epidermal growth factor receptor (EGFR),D03EHM,PP121,Investigative,C1CCC(C1)N2C3=NC=NC(=C3C(=N2)C4=CN=C5C(=C4)C=CN5)N
+EGFR,Epidermal growth factor receptor (EGFR),D06AOY,"3-(indole-3-yl)-4-phenyl-1H-pyrrole-2,5-dione",Investigative,C1=CC=C(C=C1)C2=C(C(=O)NC2=O)C3=CNC4=CC=CC=C43
+EGFR,Epidermal growth factor receptor (EGFR),D09XIL,Ro-4396686,Investigative,COC1=CC=C(C=C1)N2CC3=CN=C(N=C3N(C2=O)C4CCC(C4)O)NC5=CC=C(C=C5)F
+EGFR,Epidermal growth factor receptor (EGFR),D00NYT,"3,4-di-(4-methoxyphenyl)-1H-pyrrole-2,5-dione",Investigative,COC1=CC=C(C=C1)C2=C(C(=O)NC2=O)C3=CC=C(C=C3)OC
+EGFR,Epidermal growth factor receptor (EGFR),D0C3WY,"3,4-diphenyl-1H-pyrrole-2,5-dione",Investigative,C1=CC=C(C=C1)C2=C(C(=O)NC2=O)C3=CC=CC=C3
+EGFR,Epidermal growth factor receptor (EGFR),D0EK0G,"3-(4-methoxyphenyl)-4-phenyl-1H-pyrrole-2,5-dione",Investigative,COC1=CC=C(C=C1)C2=C(C(=O)NC2=O)C3=CC=CC=C3
+EGFR,EGFR T790M mutant (EGFR T790M),D0O8GK,Osimertinib,Approved,CN1C=C(C2=CC=CC=C21)C3=NC(=NC=C3)NC4=C(C=C(C(=C4)NC(=O)C=C)N(C)CCN(C)C)OC
+EGFR,EGFR T790M mutant (EGFR T790M),D01DBB,PMID27774824-Compound-Figure9Example2down,Patented,
+EGFR,EGFR Exon20ins mutant (EGFR Exon20ins),DI4HA7,Mobocertinib,Approved,CC(C)OC(=O)C1=CN=C(N=C1C2=CN(C3=CC=CC=C32)C)NC4=C(C=C(C(=C4)NC(=O)C=C)N(C)CCN(C)C)OC
+EGFR,EGFR Exon20ins mutant (EGFR Exon20ins),DM8Y2N,DZD9008,Phase 1/2,
+EGFR,EGFR messenger RNA (EGFR mRNA),D0FV3K,AC0010,Phase 3,CN1CCN(CC1)C2=C(C=C(C=C2)NC3=NC4=C(C=CN4)C(=N3)OC5=CC=CC(=C5)NC(=O)C=C)F
+EGFR,EGFR messenger RNA (EGFR mRNA),D06VFF,EGFR antisense DNA,Phase 1/2,
+EGFR,EGFR messenger RNA (EGFR mRNA),D09BZS,CK-101,Phase 1/2,C=CC(=O)NC1=CC=CC(=C1)C2=CC=CC3=CN=C(N=C32)NC4=C(C(=C(C=C4)N5CCN(CC5)CCO)F)F
+EGFR,EGFR messenger RNA (EGFR mRNA),D0M8YM,Pyrotinib,Phase 1,CCOC1=C(C=C2C(=C1)N=CC(=C2NC3=CC(=C(C=C3)OCC4=CC=CC=N4)Cl)C#N)NC(=O)C=CC5CCCN5C
+EGFR,Epidermal growth factor receptor variant III (EGFR vIII),D08RJY,Anti-EGFRvIII CAR transduced PBL,Phase 1/2,
+EGFR,Epidermal growth factor receptor variant III (EGFR vIII),D0LU4N,EGFRvIII CAR,Phase 1/2,
+EGFR,Epidermal growth factor receptor variant III (EGFR vIII),D0Q4EJ,Anti-EGFR V III CAR-T cells,Phase 1/2,
+EGFR,Epidermal growth factor receptor variant III (EGFR vIII),D01LWE,EGFRvIII CAR T cells,Phase 1,
+EGFR,Epidermal growth factor receptor variant III (EGFR vIII),D03CMZ,CAR-T cells targeting EGFRviii,Phase 1,
+EGFR,Epidermal growth factor receptor variant III (EGFR vIII),D09OSC,Anti-EGFRvIII CAR T cells,Phase 1,
+EGFR,Epidermal growth factor receptor variant III (EGFR vIII),D0B5PV,CART-EGFRvIII T cells,Phase 1,
+EGFR,Epidermal growth factor receptor variant III (EGFR vIII),D0PT2M,EGFRvIII-CARs,Phase 1,
+EGFR,Epidermal growth factor receptor variant III (EGFR vIII),D0ZQ6N,CAR-T Cells targeting EGFRvIII,Phase 1,
+EGFR,Epidermal growth factor receptor variant III (EGFR vIII),DF8X5N,RG6156,Phase 1,
+EGFR,Epidermal growth factor receptor variant III (EGFR vIII),DOJ6E8,AMG 596,Phase 1,
+EGFR,Epidermal growth factor receptor variant III (EGFR vIII),DR4ND6,D2C7,Phase 1,
+HDAC1,Histone deacetylase 1 (HDAC1),D0E3SH,Panobinostat,Approved,CC1=C(C2=CC=CC=C2N1)CCNCC3=CC=C(C=C3)C=CC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0E7PQ,Vorinostat,Approved,C1=CC=C(C=C1)NC(=O)CCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0L7LC,Romidepsin,Approved,CC=C1C(=O)NC(C(=O)OC2CC(=O)NC(C(=O)NC(CSSCCC=C2)C(=O)N1)C(C)C)C(C)C
+HDAC1,Histone deacetylase 1 (HDAC1),D00SQN,HBI-8000,Registered,C1=CC(=CN=C1)C=CC(=O)NCC2=CC=C(C=C2)C(=O)NC3=C(C=C(C=C3)F)N
+HDAC1,Histone deacetylase 1 (HDAC1),D0B3FV,NVP-LAQ824,Phase 3,C1=CC=C2C(=C1)C(=CN2)CCN(CCO)CC3=CC=C(C=C3)C=CC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0M8FD,SNDX-275,Phase 3,C1=CC=C(C(=C1)N)NC(=O)C2=CC=C(C=C2)CNC(=O)OCC3=CN=CC=C3
+HDAC1,Histone deacetylase 1 (HDAC1),D0GH3Q,ITF2357,Phase 3,CCN(CC)CC1=CC2=C(C=C1)C=C(C=C2)COC(=O)NC3=CC=C(C=C3)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D01UXJ,Resminostat,Phase 2,CN(C)CC1=CC=C(C=C1)S(=O)(=O)N2C=CC(=C2)C=CC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0I7IB,Sodium butyrate,Phase 2,CCCC(=O)[O-].[Na+]
+HDAC1,Histone deacetylase 1 (HDAC1),D0VE1W,SB-623,Phase 2,CCN(CC)CCN1C2=C(C=C(C=C2)C=CC(=O)NO)N=C1CCC3=CC=CC=C3
+HDAC1,Histone deacetylase 1 (HDAC1),D00FHR,MGCD-0103,Phase 2,C1=CC=C(C(=C1)N)NC(=O)C2=CC=C(C=C2)CNC3=NC=CC(=N3)C4=CN=CC=C4
+HDAC1,Histone deacetylase 1 (HDAC1),D0B7CH,Phenylbutyrate,Phase 2,C1=CC=C(C=C1)CCCC(=O)O
+HDAC1,Histone deacetylase 1 (HDAC1),D06TKI,CHR-3996,Phase 1/2,C1C2C(C2NCC3=NC4=C(C=C3)C=C(C=C4)F)CN1C5=NC=C(C=N5)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D07FPY,SB-639,Phase 1,C1CCN(C1)CCN2C3=C(C=C(C=C3)C=CC(=O)NO)N=C2CCC4=CC=CC=C4
+HDAC1,Histone deacetylase 1 (HDAC1),D0GE5B,RG-2833,Phase 1,CC1=CC=C(C=C1)C(=O)NCCCCCC(=O)NC2=CC=CC=C2N
+HDAC1,Histone deacetylase 1 (HDAC1),D00SSZ,OBP-801,Phase 1,CC1C(=O)NC2CSSCCC=CC(CC(=O)N1)OC(=O)CC(C(NC2=O)C(C)C)O
+HDAC1,Histone deacetylase 1 (HDAC1),D0YT8O,PMID29671355-Compound-42,Patented,CC(C)N1C=NC2=C(N=C(N=C21)N3CCOCC3)C4=CC(=CC=C4)NC(=O)CCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D00ACL,PMID28092474-Compound-33d,Patented,C1=CC(=C(C=C1C(=O)NO)F)CN(C2=NC=CN=C2)C3=NC=CN=C3
+HDAC1,Histone deacetylase 1 (HDAC1),D00GLJ,PMID28092474-Compound-32u,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D00LLN,PMID28092474-Compound-33a,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D00XWZ,PMID28092474-Compound-32a,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D01LCZ,PMID28092474-Compound-32j,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D02YDG,PMID28092474-Compound-32z,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D03EUD,PMID28092474-Compound-32g,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D04AMI,PMID28092474-Compound-34c,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D04KQU,PMID28092474-Compound-32x,Patented,COC1=CN=C(C=C1)N(CC2=CC=C(C=C2)C(=O)NO)C3=NC=C(C=C3)N4CCOCC4
+HDAC1,Histone deacetylase 1 (HDAC1),D04MVN,PMID28092474-Compound-33b,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D04VQE,PMID28092474-Compound-32b,Patented,CC1=NOC(=N1)N(CC2=CC=C(C=C2)C(=O)NO)C3=CC=CC=N3
+HDAC1,Histone deacetylase 1 (HDAC1),D06IIL,PMID28092474-Compound-32o,Patented,CN1C=CC(=N1)N(CC2=CC=C(C=C2)C(=O)NO)C3=NC=C(C=C3)F
+HDAC1,Histone deacetylase 1 (HDAC1),D08GBR,PMID28092474-Compound-33g,Patented,COC1=C(N=CC=C1)N(CC2=C(C=C(C=C2)C(=O)NO)F)C3=NC=CN=C3
+HDAC1,Histone deacetylase 1 (HDAC1),D08GQL,PMID28092474-Compound-33j,Patented,C1=CC(=NN=C1)N(CC2=C(C=C(C=C2)C(=O)NO)F)C3=NC=CN=C3
+HDAC1,Histone deacetylase 1 (HDAC1),D08SNJ,PMID28092474-Compound-33p,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D08XLK,PMID28092474-Compound-33m,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D08ZJZ,PMID28092474-Compound-32v,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D09PVH,PMID29671355-Compound-24,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D0BY1R,PMID28092474-Compound-34b,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D0CH4M,PMID28092474-Compound-33e,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D0CX1Y,PMID28092474-Compound-32t,Patented,CC1=CN=C(C=C1)N(CC2=CC=C(C=C2)C(=O)NO)C3=C(C=CC=N3)OC
+HDAC1,Histone deacetylase 1 (HDAC1),D0DH7R,PMID28092474-Compound-32c,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D0E5CO,PMID28092474-Compound-33i,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D0ET4U,PMID28092474-Compound-32r,Patented,CN1C2=CC=CC=C2N=C1N(CC3=CC=C(C=C3)C(=O)NO)C4=NC=C(C=C4)F
+HDAC1,Histone deacetylase 1 (HDAC1),D0EU5A,PMID28092474-Compound-32h,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D0F3TB,PMID29671355-Compound-65a,Patented,C1=CC2=C(C(=C1)NCCCCCNC(=O)CS)N=CC=C2
+HDAC1,Histone deacetylase 1 (HDAC1),D0HM6Y,PMID28092474-Compound-32y,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D0JN0A,PMID28092474-Compound-33h,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D0JR9L,PMID29671355-Compound-38a,Patented,C1=CN=C(C=N1)N(CCCCCCC(=O)NO)C2=CN=CN=C2
+HDAC1,Histone deacetylase 1 (HDAC1),D0K2UF,PMID28092474-Compound-33f,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D0KA3X,Diaryl amine derivative 3,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D0L3CU,PMID28092474-Compound-33c,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D0L7HG,PMID29671355-Compound-39,Patented,C1CN(CCN1C(C2=CC=CC=C2)C3=CC=CC=C3)C(=O)NCCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0LV6K,PMID29671355-Compound-19,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D0M7XL,PMID28092474-Compound-32e,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D0MQ2D,PMID28092474-Compound-32m,Patented,C1=CC(=CC=C1CN(C2=NC=C(C=C2)F)C3=NC=CN=C3)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0MR7U,PMID28092474-Compound-32p,Patented,CC1=NSC(=N1)N(CC2=CC=C(C=C2)C(=O)NO)C3=NC=C(C=C3)F
+HDAC1,Histone deacetylase 1 (HDAC1),D0N1RX,PMID28092474-Compound-32d,Patented,C1=CC=NC(=C1)N(CC2=CC=C(C=C2)C(=O)NO)C3=NN=CS3
+HDAC1,Histone deacetylase 1 (HDAC1),D0O6SJ,PMID28092474-Compound-32n,Patented,CC1=NOC(=N1)N(CC2=CC=C(C=C2)C(=O)NO)C3=NC=C(C=C3)F
+HDAC1,Histone deacetylase 1 (HDAC1),D0Q9XK,PMID28092474-Compound-33k,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D0QF0Y,PMID28092474-Compound-32k,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D0QN8W,PMID28092474-Compound-34a,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D0QR1Z,Isosteric imidazolyl pyrimidine derivative 1,Patented,CC1=NC=C(N1C(C)C)C2=NC(=NC=C2)NC3=CC=C(S3)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0QX3G,PMID29671355-Compound-22,Patented,C1=CC=C(C=C1)N(CCO)C(=O)CC2=CC=C(C=C2)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0R3RJ,PMID29671355-Compound-26,Patented,C1CN(C2=CC=CC=C2N1)CC3=CC=C(C=C3)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0RD7T,PMID28092474-Compound-33o,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D0S3ZB,PMID28092474-Compound-32f,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D0S7NE,Diaryl amine derivative 2,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D0SF8N,PMID28092474-Compound-33l,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D0SK9K,PMID28092474-Compound-32i,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D0TH3L,PMID28092474-Compound-32q,Patented,C1=CC(=CC=C1CN(C2=NC=C(C=C2)F)C3=NC(=NS3)C(F)(F)F)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0TN6E,PMID29671355-Compound-18,Patented,C1=CC=NC(=C1)N(CC2=CC=C(C=C2)C(=O)NO)C3=CC=CC=N3
+HDAC1,Histone deacetylase 1 (HDAC1),D0UD9R,PMID29671355-Compound-57,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D0V5IQ,PMID29671355-Compound-27,Patented,CCN1C=NC(=C1C2=CC=C(C=C2)C=CC(=O)NO)C3=CC=C(C=C3)OC
+HDAC1,Histone deacetylase 1 (HDAC1),D0W1AX,PMID28092474-Compound-32l,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D0YC2M,PMID28092474-Compound-32s,Patented,C1=CC=C2C(=C1)N=C(O2)N(CC3=CC=C(C=C3)C(=O)NO)C4=NC=C(C=C4)F
+HDAC1,Histone deacetylase 1 (HDAC1),D0YD7B,PMID29671355-Compound-38b,Patented,CC1=NSC(=N1)N(CCCCCCC(=O)NO)C2=CC=CC=N2
+HDAC1,Histone deacetylase 1 (HDAC1),D0Z7QI,PMID29671355-Compound-28,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D0C9NX,PMID29671355-Compound-59,Patented,C1CN(CCN1)C2=CC3=CN=C(C=C3C=C2)C(=O)NC4=C(C=CC(=C4)C5=CC=CS5)N
+HDAC1,Histone deacetylase 1 (HDAC1),D0OU0J,PMID29671355-Compound-55,Patented,C1C(=CC2=CC=C(C=C2)C(=O)NC3=CC=CC=C3N)CN1CC4=CC5=C(C=C4)C=CN5
+HDAC1,Histone deacetylase 1 (HDAC1),D0T7OQ,PMID29671355-Compound-73,Patented,C1C2=C(C=CC(=C2)C3=NOC(=N3)C(F)(F)F)C(=O)N1C4=CC=CC=C4
+HDAC1,Histone deacetylase 1 (HDAC1),D0ZG5X,PMID29671355-Compound-13,Patented,CCC1=NC2=C(C=C(C=C2)CC3=CC=C(C=C3)C(=O)NO)C(=O)N1CCC4=CC=CC=C4
+HDAC1,Histone deacetylase 1 (HDAC1),D0EH2K,PMID29671355-Compound-11,Patented,COC1=CC=C(C=C1)NC(=O)N2CCC(CC2)(C3=CC=CC=C3)NC4=NC=C(C=N4)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0Q1QY,PMID29671355-Compound-9,Patented,C1CC1(C2=CC=CC=C2)NC3=NC=C(C=N3)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0LN1T,PMID29671355-Compound-8,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D0JB4S,PMID29671355-Compound-61,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D00HXJ,PMID29671355-Compound-23,Patented,CN1C(=O)C2CN(C1=O)CC3=C2C4=CC=CC=C4N3CC5=CC=C(C=C5)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0N2DK,PMID29671355-Compound-44,Patented,C1CC(=O)NC1C(=O)NC(CCCCCC(=O)NO)C(=O)NC2=CC=CC(=C2)C(F)(F)F
+HDAC1,Histone deacetylase 1 (HDAC1),D0CH8Q,PMID29671355-Compound-56,Patented,C=C1CN(C(=O)C2=CC=CC=C12)CC3=CC=C(C=C3)C(=O)NC4=CC=CC=C4N
+HDAC1,Histone deacetylase 1 (HDAC1),D0M0RE,PMID29671355-Compound-67,Patented,C1CN=C2C3=C(C=C(C=C3)F)SC(=N)N2C1
+HDAC1,Histone deacetylase 1 (HDAC1),D0DI9S,PMID29671355-Compound-31,Patented,CN(CC1=CC=C(C=C1)C=CC(=O)NO)CC23CC4CC(C2)CC(C4)C3
+HDAC1,Histone deacetylase 1 (HDAC1),D0LP1K,PMID29671355-Compound-21,Patented,C1COCCN1C(=O)N(CC2=CC=C(C=C2)C(=O)NO)C3=CC=CC(=C3)C(F)(F)F
+HDAC1,Histone deacetylase 1 (HDAC1),D07WAT,PMID29671355-Compound-62,Patented,
+HDAC1,Histone deacetylase 1 (HDAC1),D0BP8I,PMID29671355-Compound-43,Patented,CN1C=NC2=C1C(=NC(=N2)NC3=CC=C(C=C3)OCCCCCCC(=O)NO)NC4CCCCC4
+HDAC1,Histone deacetylase 1 (HDAC1),D0RA0D,PMID29671355-Compound-25,Patented,C1=CC2=C(N=C1)SN(C2=O)CC3=CC=C(C=C3)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0MP2U,AN-9,Discontinued in Phase 2,CCCC(=O)OCOC(=O)C(C)(C)C
+HDAC1,Histone deacetylase 1 (HDAC1),D0W9NH,Tacedinaline,Discontinued in Phase 2,CC(=O)NC1=CC=C(C=C1)C(=O)NC2=CC=CC=C2N
+HDAC1,Histone deacetylase 1 (HDAC1),D0N3SH,Pyroxamide,Discontinued in Phase 1,C1=CC(=CN=C1)NC(=O)CCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D03SZR,M-carboxycinnamic acid bishydroxamide,Preclinical,C1=CC(=CC(=C1)C(=O)NO)C=CC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D06RQU,HC-Toxin,Preclinical,CC1C(=O)NC(C(=O)N2CCCC2C(=O)NC(C(=O)N1)C)CCCCCC(=O)C3CO3
+HDAC1,Histone deacetylase 1 (HDAC1),D0DO5U,SK-7068,Preclinical,C1CCN(C1)C2=CC=C(C=C2)C(=O)NCC3=CC=C(C=C3)C=CC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0J8OC,Scriptaid,Preclinical,C1=CC2=C3C(=C1)C(=O)N(C(=O)C3=CC=C2)CCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0L5DZ,4SC-202,Preclinical,CC1=CC=C(C=C1)S(=O)(=O)O.CN1C=C(C=N1)C2=CC=C(C=C2)S(=O)(=O)N3C=CC(=C3)C=CC(=O)NC4=CC=CC=C4N
+HDAC1,Histone deacetylase 1 (HDAC1),D0UC6H,Chlamydocin,Preclinical,CC1(C(=O)NC(C(=O)N2CCCC2C(=O)NC(C(=O)N1)CCCCCC(=O)C3CO3)CC4=CC=CC=C4)C
+HDAC1,Histone deacetylase 1 (HDAC1),D0UL5X,SK-7041,Preclinical,CN(C)C1=CC=C(C=C1)C(=O)NCC2=CC=C(C=C2)C=CC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0W8JE,Depudecin,Preclinical,CC(C1C(O1)C=CC2C(O2)C(C=C)O)O
+HDAC1,Histone deacetylase 1 (HDAC1),D03YVR,Oxamflatin,Terminated,C1=CC=C(C=C1)S(=O)(=O)NC2=CC=CC(=C2)C#CC=CC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D00GBB,6-(3-Benzoyl-ureido)-hexanoic acid hydroxyamide,Investigative,C1=CC=C(C=C1)C(=O)NC(=O)NCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D00LSZ,"N,8-dihydroxy-8-(naphthalen-2-yl)octanamide",Investigative,C1=CC=C2C=C(C=CC2=C1)C(CCCCCCC(=O)NO)O
+HDAC1,Histone deacetylase 1 (HDAC1),D00PLM,N-hydroxy-5-(pyridin-3-yl)thiophene-2-carboxamide,Investigative,C1=CC(=CN=C1)C2=CC=C(S2)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D00RGD,N-hydroxy-8-oxo-8-(pyridin-3-yl)octanamide,Investigative,C1=CC(=CN=C1)C(=O)CCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D01EDB,NSC-746457,Investigative,C1=CC=C(C=C1)C=CCN2C=C(N=N2)C=CC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D02VVU,4-Benzenesulfonylamino-N-hydroxy-benzamide,Investigative,C1=CC=C(C=C1)S(=O)(=O)NC2=CC=C(C=C2)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D03FFI,N-hydroxy-7-(naphthalen-2-yl)-7-oxoheptanamide,Investigative,C1=CC=C2C=C(C=CC2=C1)C(=O)CCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D03FOD,4-tert-butyl-N-hydroxybenzamide,Investigative,CC(C)(C)C1=CC=C(C=C1)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D03OYL,N-hydroxy-7-(naphthalen-2-yloxy)heptanamide,Investigative,C1=CC=C2C=C(C=CC2=C1)OCCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D03ZUZ,8-(3-Benzoyl-ureido)-octanoic acid hydroxyamide,Investigative,C1=CC=C(C=C1)C(=O)NC(=O)NCCCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D04XPZ,N-hydroxy-8-(naphthalen-2-yl)non-8-enamide,Investigative,C=C(CCCCCCC(=O)NO)C1=CC2=CC=CC=C2C=C1
+HDAC1,Histone deacetylase 1 (HDAC1),D05PYF,N-hydroxy-5-(pyridin-2-yl)thiophene-2-carboxamide,Investigative,C1=CC=NC(=C1)C2=CC=C(S2)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D06NVX,N-hydroxy-5-phenylthiophene-2-carboxamide,Investigative,C1=CC=C(C=C1)C2=CC=C(S2)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D06ONC,Azithromycin-N-benzyltriazolyldecahydroxamic Acid,Investigative,CCC1C(C(C(N(CC(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)CC4=CC=C(C=C4)C5=CN(N=N5)CCCCCCCCCC(=O)NO)O)(C)O)C)C)C)O)(C)O
+HDAC1,Histone deacetylase 1 (HDAC1),D07HUH,7-(4-(dimethylamino)phenoxy)-N-hydroxyheptanamide,Investigative,CN(C)C1=CC=C(C=C1)OCCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0A6CB,8-(biphenyl-4-yl)-N-hydroxy-8-oxooctanamide,Investigative,C1=CC=C(C=C1)C2=CC=C(C=C2)C(=O)CCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0A7IF,N-hydroxy-5-(pyridin-4-yl)thiophene-2-carboxamide,Investigative,C1=CN=CC=C1C2=CC=C(S2)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0B1YM,Gymnochrome E,Investigative,CCCC(CC1=C2C3=C(C(=C(C4=C(C5=C6C(=C7C(=O)C=C(C8=C7C(=C2C(=C8O)C(=C1Br)O)C6=C34)O)C(=O)C=C5O)O)O)Br)CC(C)O)O
+HDAC1,Histone deacetylase 1 (HDAC1),D0CJ7L,N-hydroxy-8-(naphthalen-2-yl)oct-7-enamide,Investigative,C1=CC=C2C=C(C=CC2=C1)C=CCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0D3XC,N-hydroxybenzo[b]thiophene-2-carboxamide,Investigative,C1=CC=C2C(=C1)C=C(S2)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0G0OF,7-(1H-indol-5-yloxy)-N-hydroxyheptanamide,Investigative,C1=CC2=C(C=CN2)C=C1OCCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0GJ1E,8-(4-bromophenyl)-N-hydroxy-8-oxooctanamide,Investigative,C1=CC(=CC=C1C(=O)CCCCCCC(=O)NO)Br
+HDAC1,Histone deacetylase 1 (HDAC1),D0K8MF,N-hydroxy-7-(4-methoxyphenyl)-7-oxoheptanamide,Investigative,COC1=CC=C(C=C1)C(=O)CCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0KM7H,N-hydroxy-8-(2-methoxyphenyl)-8-oxooctanamide,Investigative,COC1=CC=CC=C1C(=O)CCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0L4ML,N-hydroxy-6-oxo-6-phenylhexanamide,Investigative,C1=CC=C(C=C1)C(=O)CCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0L5WI,N-hydroxy-8-(naphthalen-2-yl)octanamide,Investigative,C1=CC=C2C=C(C=CC2=C1)CCCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0M0QJ,ADS-102550,Investigative,C1OC2=C(O1)C=C(C=C2)CNCCN3C=CC(=N3)C4=CC=C(S4)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0O7UF,N-hydroxy-8-(4-methoxyphenyl)-8-oxooctanamide,Investigative,COC1=CC=C(C=C1)C(=O)CCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0P1RQ,N-(2-aminophenyl)-4-(chroman-3-ylmethyl)benzamide,Investigative,C1C(COC2=CC=CC=C21)CC3=CC=C(C=C3)C(=O)NC4=CC=CC=C4N
+HDAC1,Histone deacetylase 1 (HDAC1),D0PP3Q,"N-hydroxy-2,2'-bithiophene-5-carboxamide",Investigative,C1=CSC(=C1)C2=CC=C(S2)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0Q8QA,ADS-100380,Investigative,CN1C(=CC(=N1)C(F)(F)F)C2=CC=C(S2)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0QX6R,N-hydroxy-7-oxo-7-phenylheptanamide,Investigative,C1=CC=C(C=C1)C(=O)CCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0T0BE,7-(3-Benzoyl-ureido)-heptanoic acid hydroxyamide,Investigative,C1=CC=C(C=C1)C(=O)NC(=O)NCCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0U3MB,SK-683,Investigative,C1=CC=C(C=C1)NC(=O)C(C2=CC=CC(=C2)C=CC(=O)NO)C(=O)NC3=CC=CC=C3
+HDAC1,Histone deacetylase 1 (HDAC1),D0Z2VP,N-hydroxy-9-oxo-9-phenylnonanamide,Investigative,C1=CC=C(C=C1)C(=O)CCCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D00HFS,N-Hydroxy-N'-(4-methylphenyl)octanediamide,Investigative,CC1=CC=C(C=C1)NC(=O)CCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D01AMS,"N-(2,3-Dimethylphenyl)-N'-hydroxyoctanediamide",Investigative,CC1=C(C(=CC=C1)NC(=O)CCCCCCC(=O)NO)C
+HDAC1,Histone deacetylase 1 (HDAC1),D01FYB,N-(2-aminophenyl)quinoxaline-6-carboxamide,Investigative,C1=CC=C(C(=C1)N)NC(=O)C2=CC3=NC=CN=C3C=C2
+HDAC1,Histone deacetylase 1 (HDAC1),D01RJY,7-Biphenyl-4-yl-heptanoic acid hydroxyamide,Investigative,C1=CC=C(C=C1)C2=CC=C(C=C2)CCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D01ZMJ,N-(2-Ethylphenyl)-N'-hydroxyoctanediamide,Investigative,CCC1=CC=CC=C1NC(=O)CCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D03XXI,8-(Biphenyl-4-yloxy)-2-oxo-octanoic acid,Investigative,C1=CC=C(C=C1)C2=CC=C(C=C2)OCCCCCCC(=O)C(=O)O
+HDAC1,Histone deacetylase 1 (HDAC1),D04ETX,"1,1,1-Trifluoro-8-phenoxy-octan-2-one",Investigative,C1=CC=C(C=C1)OCCCCCCC(=O)C(F)(F)F
+HDAC1,Histone deacetylase 1 (HDAC1),D04LLD,7-(Biphenyl-4-yloxy)-heptanoic acid hydroxyamide,Investigative,C1=CC=C(C=C1)C2=CC=C(C=C2)OCCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D05GRZ,"N-(2,4-Dimethylphenyl)-N'-hydroxyoctanediamide",Investigative,CC1=CC(=C(C=C1)NC(=O)CCCCCCC(=O)NO)C
+HDAC1,Histone deacetylase 1 (HDAC1),D05ZGM,7-Phenoxy-heptanoic acid hydroxyamide,Investigative,C1=CC=C(C=C1)OCCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D06BKA,"1,1,1-Trifluoro-8-(4-phenoxy-phenoxy)-octan-2-one",Investigative,C1=CC=C(C=C1)OC2=CC=C(C=C2)OCCCCCCC(=O)C(F)(F)F
+HDAC1,Histone deacetylase 1 (HDAC1),D06FAK,6-(9H-carbazol-9-yl)-N-hydroxyhexanamide,Investigative,C1=CC=C2C(=C1)C3=CC=CC=C3N2CCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D06THS,Desclasinose Azithromycinarylalkyl Hydroxamate,Investigative,CCC1C(C(C(N(CC(CC(C(C(C(C(C(=O)O1)C)O)C)OC2C(C(CC(O2)C)N(C)CC3=CC=C(C=C3)NC(=O)CCCCCCC(=O)NO)O)(C)O)C)C)C)O)(C)O
+HDAC1,Histone deacetylase 1 (HDAC1),D08ICY,N-(4-Ethylphenyl)-N'-hydroxyoctanediamide,Investigative,CCC1=CC=C(C=C1)NC(=O)CCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D08TIJ,"N-(3,5-Dimethylphenyl)-N'-hydroxyoctanediamide",Investigative,CC1=CC(=CC(=C1)NC(=O)CCCCCCC(=O)NO)C
+HDAC1,Histone deacetylase 1 (HDAC1),D08XMS,N1-(biphenyl-3-yl)-N8-hydroxyoctanediamide,Investigative,C1=CC=C(C=C1)C2=CC(=CC=C2)NC(=O)CCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0B8RC,"N-(2,5-Dimethylphenyl)-N'-hydroxyoctanediamide",Investigative,CC1=CC(=C(C=C1)C)NC(=O)CCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0D7KH,Azithromycin-N-benzyltriazolyloctahydroxamic Acid,Investigative,CCC1C(C(C(N(CC(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)CC4=CC=C(C=C4)C5=CN(N=N5)CCCCCCCC(=O)NO)O)(C)O)C)C)C)O)(C)O
+HDAC1,Histone deacetylase 1 (HDAC1),D0E0TA,N-(4-hydroxybiphenyl-3-yl)benzamide,Investigative,C1=CC=C(C=C1)C2=CC(=C(C=C2)O)NC(=O)C3=CC=CC=C3
+HDAC1,Histone deacetylase 1 (HDAC1),D0E9DD,AZUMAMIDE E,Investigative,CC1C(NC(=O)C(NC(=O)C(NC(=O)C(NC1=O)C(C)C)C)CC2=CC=CC=C2)CC=CCCC(=O)O
+HDAC1,Histone deacetylase 1 (HDAC1),D0H3RO,Azithromycin-N-benzyltriazolylnonahydroxamic Acid,Investigative,CCC1C(C(C(N(CC(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)CC4=CC=C(C=C4)C5=CN(N=N5)CCCCCCCCC(=O)NO)O)(C)O)C)C)C)O)(C)O
+HDAC1,Histone deacetylase 1 (HDAC1),D0H7QA,N-Hydroxy-N'-(3-methylphenyl)octanediamide,Investigative,CC1=CC(=CC=C1)NC(=O)CCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0H9DS,8-Phenyl-octanoic acid hydroxyamide,Investigative,C1=CC=C(C=C1)CCCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0I5XM,Azithromycin-N-benzyltriazolylhexahydroxamic Acid,Investigative,CCC1C(C(C(N(CC(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)CC4=CC=C(C=C4)C5=CN(N=N5)CCCCCC(=O)NO)O)(C)O)C)C)C)O)(C)O
+HDAC1,Histone deacetylase 1 (HDAC1),D0J3CY,N-(3-Ethylphenyl)-N'-hydroxyoctanediamide,Investigative,CCC1=CC(=CC=C1)NC(=O)CCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0L5KP,"N-(3,4-Dimethylphenyl)-N'-hydroxyoctanediamide",Investigative,CC1=C(C=C(C=C1)NC(=O)CCCCCCC(=O)NO)C
+HDAC1,Histone deacetylase 1 (HDAC1),D0L6YF,N-Hydroxy-N'-(4-methoxyphenyl)octanediamide,Investigative,COC1=CC=C(C=C1)NC(=O)CCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0M1ZI,AZUMAMIDE B,Investigative,CC1C(NC(=O)C(NC(=O)C(NC(=O)C(NC1=O)C(C)C)C)CC2=CC=C(C=C2)O)CC=CCCC(=O)N
+HDAC1,Histone deacetylase 1 (HDAC1),D0NL6C,"8-(Biphenyl-3-yloxy)-1,1,1-trifluoro-octan-2-one",Investigative,C1=CC=C(C=C1)C2=CC(=CC=C2)OCCCCCCC(=O)C(F)(F)F
+HDAC1,Histone deacetylase 1 (HDAC1),D0P9CQ,Azithromycinarylalkylhydroxamic Acid,Investigative,CCC1C(C(C(N(CC(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)CC4=CC=C(C=C4)NC(=O)CCCCCCC(=O)NO)O)(C)O)C)C)C)O)(C)O
+HDAC1,Histone deacetylase 1 (HDAC1),D0Q2CC,N-Hydroxy-N'-(2-methylphenyl)octanediamide,Investigative,CC1=CC=CC=C1NC(=O)CCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0Q5DI,nexturastat A,Investigative,CCCCN(CC1=CC=C(C=C1)C(=O)NO)C(=O)NC2=CC=CC=C2
+HDAC1,Histone deacetylase 1 (HDAC1),D0Q9PO,AZUMAMIDE C,Investigative,CC1C(NC(=O)C(NC(=O)C(NC(=O)C(NC1=O)C(C)C)C)CC2=CC=C(C=C2)O)CC=CCCC(=O)O
+HDAC1,Histone deacetylase 1 (HDAC1),D0SQ1F,"N-(2,6-Dimethylphenyl)-N'-hydroxyoctanediamide",Investigative,CC1=C(C(=CC=C1)C)NC(=O)CCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0YP4F,N1-hydroxy-N8-(4-phenylthiazol-2-yl)octanediamide,Investigative,C1=CC=C(C=C1)C2=CSC(=N2)NC(=O)CCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0Z8PX,LARGAZOLE,Investigative,CCCCCCCC(=O)SCCC=CC1CC(=O)NCC2=NC(=CS2)C3=NC(CS3)(C(=O)NC(C(=O)O1)C(C)C)C
+HDAC1,Histone deacetylase 1 (HDAC1),D00XTC,Cyclo(-L-Am7(S2Py)-L-A1in-L-Ala-D-Pro-),Investigative,CC1C(=O)N2CCCC2C(=O)NC(C(=O)NC3(CCC4=CC=CC=C43)C(=O)N1)CCCCCSSC5=CC=CC=N5
+HDAC1,Histone deacetylase 1 (HDAC1),D02HVH,7-mercapto-N-(4-phenylthiazol-2-yl)heptanamide,Investigative,C1=CC=C(C=C1)C2=CSC(=N2)NC(=O)CCCCCCS
+HDAC1,Histone deacetylase 1 (HDAC1),D02NAF,Cyclo(-L-Am7(S2Py)-D-A1in-L-Ala-D-Pro-),Investigative,CC1C(=O)N2CCCC2C(=O)NC(C(=O)NC3(CCC4=CC=CC=C43)C(=O)N1)CCCCCSSC5=CC=CC=N5
+HDAC1,Histone deacetylase 1 (HDAC1),D02NVY,Cyclo(-L-Am7(S2Py)-A2in-L-Ala-D-Pro-),Investigative,CC1C(=O)N2CCCC2C(=O)NC(C(=O)NC3(CC4=CC=CC=C4C3)C(=O)N1)CCCCCSSC5=CC=CC=N5
+HDAC1,Histone deacetylase 1 (HDAC1),D03PRG,Cyclo(-L-Am7(S2Py)-Aib-L-Ph5-D-Pro-),Investigative,CC1(C(=O)NC(C(=O)N2CCCC2C(=O)NC(C(=O)N1)CCCCCSSC3=CC=CC=N3)CCCC4=CC=CC=C4)C
+HDAC1,Histone deacetylase 1 (HDAC1),D04CDZ,Cyclo(-L-Am7(S2Py)-D-2MePhe-L-Ala-D-Pro-),Investigative,CC1C(=O)N2CCCC2C(=O)NC(C(=O)NC(C(=O)N1)(C)CC3=CC=CC=C3)CCCCCSSC4=CC=CC=N4
+HDAC1,Histone deacetylase 1 (HDAC1),D04DOL,N1-(biphenyl-4-yl)-N8-hydroxyoctanediamide,Investigative,C1=CC=C(C=C1)C2=CC=C(C=C2)NC(=O)CCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D04UVL,N-(2-aminophenyl)nicotinamide,Investigative,C1=CC=C(C(=C1)N)NC(=O)C2=CN=CC=C2
+HDAC1,Histone deacetylase 1 (HDAC1),D0E8UH,Cyclo(-L-Am7(S2Py)-Aib-L-Ser(Bzl)-D-Pro-),Investigative,CC1(C(=O)NC(C(=O)N2CCCC2C(=O)NC(C(=O)N1)CCCCCSSC3=CC=CC=N3)COCC4=CC=CC=C4)C
+HDAC1,Histone deacetylase 1 (HDAC1),D0G1EX,Cyclo(-L-Am7(S2Py)-Aib-L-Phg-D-Pro-),Investigative,CC1(C(=O)NC(C(=O)N2CCCC2C(=O)NC(C(=O)N1)CCCCCSSC3=CC=CC=N3)C4=CC=CC=C4)C
+HDAC1,Histone deacetylase 1 (HDAC1),D0M9LJ,N-(4-aminobiphenyl-3-yl)nicotinamide,Investigative,C1=CC=C(C=C1)C2=CC(=C(C=C2)N)NC(=O)C3=CN=CC=C3
+HDAC1,Histone deacetylase 1 (HDAC1),D0N5RV,Cyclo(-L-Am7(S2Py)-Aib-L-Ala-D-Tic-),Investigative,CC1CN2CC3=CC=CC=C3CC2C(=O)NC(C(=O)NC(C(=O)N1)(C)C)CCCCCSSC4=CC=CC=N4
+HDAC1,Histone deacetylase 1 (HDAC1),D0Q2GM,N-(2-amino-5-(thiophen-2-yl)phenyl)nicotinamide,Investigative,C1=CC(=CN=C1)C(=O)NC2=C(C=CC(=C2)C3=CC=CS3)N
+HDAC1,Histone deacetylase 1 (HDAC1),D0R3XO,Cyclo(-L-Am7(S2Py)-Aib-L-Ala-D-Pro-),Investigative,CC1C(=O)N2CCCC2C(=O)NC(C(=O)NC(C(=O)N1)(C)C)CCCCCSSC3=CC=CC=N3
+HDAC1,Histone deacetylase 1 (HDAC1),D0U0EZ,Cyclo(-L-Am7(S2Py)-Aib-L-Ser-D-Pro-),Investigative,CC1(C(=O)NC(C(=O)N2CCCC2C(=O)NC(C(=O)N1)CCCCCSSC3=CC=CC=N3)CO)C
+HDAC1,Histone deacetylase 1 (HDAC1),D0X4QC,Cyclo(-L-Am7(S2Py)-Aib-L-Ph4-D-Pro-),Investigative,CC1(C(=O)NC(C(=O)N2CCCC2C(=O)NC(C(=O)N1)CCCCCSSC3=CC=CC=N3)CCC4=CC=CC=C4)C
+HDAC1,Histone deacetylase 1 (HDAC1),D0YO6M,N-(2-aminophenyl)-4-methoxybenzamide,Investigative,COC1=CC=C(C=C1)C(=O)NC2=CC=CC=C2N
+HDAC1,Histone deacetylase 1 (HDAC1),D0Z6HR,Cyclo(-L-Am7(S2Py)-L-2MePhe-L-Ala-D-Pro-),Investigative,CC1C(=O)N2CCCC2C(=O)NC(C(=O)NC(C(=O)N1)(C)CC3=CC=CC=C3)CCCCCSSC4=CC=CC=N4
+HDAC1,Histone deacetylase 1 (HDAC1),D0Z6MI,Cyclo(-L-Am7(S2Py)-Aib-L-Phe-D-Pro-),Investigative,CC1(C(=O)NC(C(=O)N2CCCC2C(=O)NC(C(=O)N1)CCCCCSSC3=CC=CC=N3)CC4=CC=CC=C4)C
+HDAC1,Histone deacetylase 1 (HDAC1),D02NWS,4-Phenylbutyrohydroxamic acid,Investigative,C1=CC=C(C=C1)CCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0S0WK,8-Oxo-8-phenyl-octanoic acid hydroxyamide,Investigative,C1=CC=C(C=C1)C(=O)CCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D01YBR,ST-3050,Investigative,C1COCCN1CCON=CC2=CC=C(C=C2)C=CC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D07YZZ,Octanedioic acid bis-hydroxyamide,Investigative,C(CCCC(=O)NO)CCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0N9AK,ST-2986,Investigative,C1=CC(=CC=C1C=CC(=O)NO)C=NOCC2=C(C(=C(C(=C2F)F)F)F)F
+HDAC1,Histone deacetylase 1 (HDAC1),D00KFF,"9,9,9-Trifluoro-8-oxo-nonanoic acid phenylamide",Investigative,C1=CC=C(C=C1)NC(=O)CCCCCCC(=O)C(F)(F)F
+HDAC1,Histone deacetylase 1 (HDAC1),D00SEE,7-Mercapto-heptanoic acid phenylamide,Investigative,C1=CC=C(C=C1)NC(=O)CCCCCCS
+HDAC1,Histone deacetylase 1 (HDAC1),D00ZSD,6-benzenesulfinylhexanoic acid hydroxamide,Investigative,C1=CC=C(C=C1)S(=O)CCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D01MFV,N-(2-Mercapto-ethyl)-N'-phenyl-succinamide,Investigative,C1=CC=C(C=C1)NC(=O)CCC(=O)NCCS
+HDAC1,Histone deacetylase 1 (HDAC1),D01XWZ,7-Mercapto-heptanoic acid biphenyl-4-ylamide,Investigative,C1=CC=C(C=C1)C2=CC=C(C=C2)NC(=O)CCCCCCS
+HDAC1,Histone deacetylase 1 (HDAC1),D01XXN,N-Hydroxy-4-phenylacetylamino-benzamide,Investigative,C1=CC=C(C=C1)CC(=O)NC2=CC=C(C=C2)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D02MQM,6-(2-Bromo-acetylamino)-hexanoic acid phenylamide,Investigative,C1=CC=C(C=C1)NC(=O)CCCCCNC(=O)CBr
+HDAC1,Histone deacetylase 1 (HDAC1),D02UTC,N-Hydroxy-4-(phenylacetylamino-methyl)-benzamide,Investigative,C1=CC=C(C=C1)CC(=O)NCC2=CC=C(C=C2)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D02WZK,7-(Biphenyl-4-yloxy)-1-oxazol-2-yl-heptan-1-one,Investigative,C1=CC=C(C=C1)C2=CC=C(C=C2)OCCCCCCC(=O)C3=NC=CO3
+HDAC1,Histone deacetylase 1 (HDAC1),D04GGW,Octanedioic acid hydroxyamide pyridin-4-ylamide,Investigative,C1=CN=CC=C1NC(=O)CCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D04HSS,N-(6-Mercapto-hexyl)-benzamide,Investigative,C1=CC=C(C=C1)C(=O)NCCCCCCS
+HDAC1,Histone deacetylase 1 (HDAC1),D04NSP,4-Hydroxy-N-(5-hydroxycarbamoyl-pentyl)-benzamide,Investigative,C1=CC(=CC=C1C(=O)NCCCCCC(=O)NO)O
+HDAC1,Histone deacetylase 1 (HDAC1),D04ZDI,N-Hydroxy-4-((R)-2-phenyl-butyrylamino)-benzamide,Investigative,CCC(C1=CC=CC=C1)C(=O)NC2=CC=C(C=C2)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D05AHZ,6-benzenesulfonylhexanoic acid hydroxamide,Investigative,C1=CC=C(C=C1)S(=O)(=O)CCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D05FEJ,"9-(Biphenyl-4-yloxy)-1,1,1-trifluoro-nonan-2-one",Investigative,C1=CC=C(C=C1)C2=CC=C(C=C2)OCCCCCCCC(=O)C(F)(F)F
+HDAC1,Histone deacetylase 1 (HDAC1),D05GVY,Thioacetic acid S-(6-phenylcarbamoyl-hexyl) ester,Investigative,CC(=O)SCCCCCCC(=O)NC1=CC=CC=C1
+HDAC1,Histone deacetylase 1 (HDAC1),D05LLX,4-Butyrylamino-N-hydroxy-benzamide,Investigative,CCCC(=O)NC1=CC=C(C=C1)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D05VFP,7-(Naphthalen-2-yloxy)-1-oxazol-2-yl-heptan-1-one,Investigative,C1=CC=C2C=C(C=CC2=C1)OCCCCCCC(=O)C3=NC=CO3
+HDAC1,Histone deacetylase 1 (HDAC1),D05XAN,7-Mercapto-heptanoic acid biphenyl-3-ylamide,Investigative,C1=CC=C(C=C1)C2=CC(=CC=C2)NC(=O)CCCCCCS
+HDAC1,Histone deacetylase 1 (HDAC1),D06IQB,"5-(4-hydroxyphenyl)-3H-1,2-dithiole-3-thione",Investigative,C1=CC(=CC=C1C2=CC(=S)SS2)O
+HDAC1,Histone deacetylase 1 (HDAC1),D06VBN,N-Hydroxy-4-(2-phenyl-butyrylamino)-benzamide,Investigative,CCC(C1=CC=CC=C1)C(=O)NC2=CC=C(C=C2)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D06XNP,4-Dimethylamino-N-(6-mercapto-hexyl)-benzamide,Investigative,CN(C)C1=CC=C(C=C1)C(=O)NCCCCCCS
+HDAC1,Histone deacetylase 1 (HDAC1),D07FJU,7-Mercapto-heptanoic acid pyridin-3-ylamide,Investigative,C1=CC(=CN=C1)NC(=O)CCCCCCS
+HDAC1,Histone deacetylase 1 (HDAC1),D09YBN,6-Phenoxy-hexane-1-thiol,Investigative,C1=CC=C(C=C1)OCCCCCCS
+HDAC1,Histone deacetylase 1 (HDAC1),D09ZNU,4-Benzoylamino-N-hydroxy-benzamide,Investigative,C1=CC=C(C=C1)C(=O)NC2=CC=C(C=C2)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0A5LS,4-Chloro-N-(5-hydroxycarbamoyl-pentyl)-benzamide,Investigative,C1=CC(=CC=C1C(=O)NCCCCCC(=O)NO)Cl
+HDAC1,Histone deacetylase 1 (HDAC1),D0AX7B,"8-(Biphenyl-4-yloxy)-1,1,1-trifluoro-octan-2-one",Investigative,C1=CC=C(C=C1)C2=CC=C(C=C2)OCCCCCCC(=O)C(F)(F)F
+HDAC1,Histone deacetylase 1 (HDAC1),D0B2ZJ,7-(Biphenyl-3-yloxy)-1-oxazol-2-yl-heptan-1-one,Investigative,C1=CC=C(C=C1)C2=CC(=CC=C2)OCCCCCCC(=O)C3=NC=CO3
+HDAC1,Histone deacetylase 1 (HDAC1),D0B3ZM,6-Mercapto-hexanoic acid phenylamide,Investigative,C1=CC=C(C=C1)NC(=O)CCCCCS
+HDAC1,Histone deacetylase 1 (HDAC1),D0C0VP,Cyclostellettamine derivative,Investigative,C1CCCCCC[N+]2=CC=CC(=C2)CCCCCCC=CCCCCCC[N+]3=CC=CC(=C3)CCCCC1.C(=O)(C(F)(F)F)[O-].C(=O)(C(F)(F)F)[O-]
+HDAC1,Histone deacetylase 1 (HDAC1),D0C2KD,N-(5-Hydroxycarbamoyl-pentyl)-4-nitro-benzamide,Investigative,C1=CC(=CC=C1C(=O)NCCCCCC(=O)NO)[N+](=O)[O-]
+HDAC1,Histone deacetylase 1 (HDAC1),D0D2KE,5-Mercapto-pentanoic acid phenylamide,Investigative,C1=CC=C(C=C1)NC(=O)CCCCS
+HDAC1,Histone deacetylase 1 (HDAC1),D0E8KR,Octanedioic acid hydroxyamide pyridin-2-ylamide,Investigative,C1=CC=NC(=C1)NC(=O)CCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0F0KS,N-(2-Mercapto-ethyl)-N'-phenyl-oxalamide,Investigative,C1=CC=C(C=C1)NC(=O)C(=O)NCCS
+HDAC1,Histone deacetylase 1 (HDAC1),D0H1FZ,2-(methylsulfonylthio)ethyl 2-propylpentanoate,Investigative,CCCC(CCC)C(=O)OCCSS(=O)(=O)C
+HDAC1,Histone deacetylase 1 (HDAC1),D0KE3I,(E)-8-Biphenyl-4-yl-1-oxazol-2-yl-oct-7-en-1-one,Investigative,C1=CC=C(C=C1)C2=CC=C(C=C2)C=CCCCCCC(=O)C3=NC=CO3
+HDAC1,Histone deacetylase 1 (HDAC1),D0QO0L,N-Hydroxy-4-((S)-2-phenyl-butyrylamino)-benzamide,Investigative,CCC(C1=CC=CC=C1)C(=O)NC2=CC=C(C=C2)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0R4BS,N-Hydroxy-4-(3-phenyl-propionylamino)-benzamide,Investigative,
+HDAC1,Histone deacetylase 1 (HDAC1),D0R5VG,N-Hydroxy-4-(5-phenyl-pentanoylamino)-benzamide,Investigative,C1=CC=C(C=C1)CCCCC(=O)NC2=CC=C(C=C2)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0RU1X,8-Oxo-8-phenyl-octanoic acid,Investigative,C1=CC=C(C=C1)C(=O)CCCCCCC(=O)O
+HDAC1,Histone deacetylase 1 (HDAC1),D0S7WQ,N-Hydroxy-4-(4-phenyl-butyrylamino)-benzamide,Investigative,C1=CC=C(C=C1)CCCC(=O)NC2=CC=C(C=C2)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0S9JF,6-phenylsulfanylhexanoic acid hydroxamide,Investigative,C1=CC=C(C=C1)SCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0T0SK,ST-2987,Investigative,C1=CC(=CC=C1CON=CC2=CC=C(C=C2)C=CC(=O)NO)[N+](=O)[O-]
+HDAC1,Histone deacetylase 1 (HDAC1),D0T4IY,7-Mercapto-heptanoic acid quinolin-3-ylamide,Investigative,C1=CC=C2C(=C1)C=C(C=N2)NC(=O)CCCCCCS
+HDAC1,Histone deacetylase 1 (HDAC1),D0V2ZO,5-(4-Chloro-phenyl)-pentanoic acid hydroxyamide,Investigative,C1=CC(=CC=C1CCCCC(=O)NO)Cl
+HDAC1,Histone deacetylase 1 (HDAC1),D0XZ9Q,8-Mercapto-octanoic acid phenylamide,Investigative,C1=CC=C(C=C1)NC(=O)CCCCCCCS
+HDAC1,Histone deacetylase 1 (HDAC1),D0YY9M,N-(6-Hydroxycarbamoyl-hexyl)-benzamide,Investigative,C1=CC=C(C=C1)C(=O)NCCCCCCC(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0Z3BM,"7-(Biphenyl-4-yloxy)-1,1,1-trifluoro-heptan-2-one",Investigative,C1=CC=C(C=C1)C2=CC=C(C=C2)OCCCCCC(=O)C(F)(F)F
+HDAC1,Histone deacetylase 1 (HDAC1),D0Z5KX,7-Mercapto-heptanoic acid benzothiazol-2-ylamide,Investigative,C1=CC=C2C(=C1)N=C(S2)NC(=O)CCCCCCS
+HDAC1,Histone deacetylase 1 (HDAC1),D0Z7YS,N-Hydroxy-4-(pentanoylamino-methyl)-benzamide,Investigative,CCCCC(=O)NCC1=CC=C(C=C1)C(=O)NO
+HDAC1,Histone deacetylase 1 (HDAC1),D0N0TS,PSAMMAPLIN A,Investigative,C1=CC(=C(C=C1CC(=NO)C(=O)NCCSSCCNC(=O)C(=NO)CC2=CC(=C(C=C2)O)Br)Br)O
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D03FCF,Novolimus,Approved,CC1CCC2CC(C(=CC=CC=CC(CC(C(=O)C(C(C(=CC(C(=O)CC(OC(=O)C3CCCCN3C(=O)C(=O)C1(O2)O)C(C)CC4CCC(C(C4)OC)O)C)C)O)OC)C)C)C)O
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0ES1Q,Temsirolimus,Approved,CC1CCC2CC(C(=CC=CC=CC(CC(C(=O)C(C(C(=CC(C(=O)CC(OC(=O)C3CCCCN3C(=O)C(=O)C1(O2)O)C(C)CC4CCC(C(C4)OC)OC(=O)C(C)(CO)CO)C)C)O)OC)C)C)C)OC
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0K3QS,Everolimus,Approved,CC1CCC2CC(C(=CC=CC=CC(CC(C(=O)C(C(C(=CC(C(=O)CC(OC(=O)C3CCCCN3C(=O)C(=O)C1(O2)O)C(C)CC4CCC(C(C4)OC)OCCO)C)C)O)OC)C)C)C)OC
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0V7WS,Zotarolimus,Approved,CC1CCC2CC(C(=CC=CC=CC(CC(C(=O)C(C(C(=CC(C(=O)CC(OC(=O)C3CCCCN3C(=O)C(=O)C1(O2)O)C(C)CC4CCC(C(C4)OC)N5C=NN=N5)C)C)O)OC)C)C)C)OC
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D03LJR,Sirolimus,Approved,CC1CCC2CC(C(=CC=CC=CC(CC(C(=O)C(C(C(=CC(C(=O)CC(OC(=O)C3CCCCN3C(=O)C(=O)C1(O2)O)C(C)CC4CCC(C(C4)OC)O)C)C)O)OC)C)C)C)OC
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0S5LO,PF-04449913,Approved,CN1CCC(CC1C2=NC3=CC=CC=C3N2)NC(=O)NC4=CC=C(C=C4)C#N
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0O3CV,Ridaforolimus,Phase 3,CC1CCC2CC(C(=CC=CC=CC(CC(C(=O)C(C(C(=CC(C(=O)CC(OC(=O)C3CCCCN3C(=O)C(=O)C1(O2)O)C(C)CC4CCC(C(C4)OC)OP(=O)(C)C)C)C)O)OC)C)C)C)OC
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D03DPZ,INK128,Phase 2,CC(C)N1C2=NC=NC(=C2C(=N1)C3=CC4=C(C=C3)OC(=N4)N)N
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0H7XL,OSI-027,Phase 2,COC1=CC=CC2=C1NC(=C2)C3=C4C(=NC=NN4C(=N3)C5CCC(CC5)C(=O)O)N
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0W3UV,ABI-009,Phase 2,
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D00KTV,Salirasib,Phase 2,CC(=CCCC(=CCCC(=CCSC1=CC=CC=C1C(=O)O)C)C)C
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D01PGR,SAR245409,Phase 2,CCN1C2=NC(=NC(=C2C=C(C1=O)C3=CC=NN3)C)N
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D03NJY,SF1126,Phase 2,C1COCC[N+]1(COC(=O)CCC(=O)NC(CCCN=C(N)N)C(=O)NCC(=O)NC(CC(=O)O)C(=O)NC(CO)C(=O)[O-])C2=CC(=O)C3=C(O2)C(=CC=C3)C4=CC=CC=C4
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0D8JB,PF-05212384,Phase 2,CN(C)C1CCN(CC1)C(=O)C2=CC=C(C=C2)NC(=O)NC3=CC=C(C=C3)C4=NC(=NC(=N4)N5CCOCC5)N6CCOCC6
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0H1WC,LY3023414,Phase 2,CC(CN1C2=C3C=C(C=CC3=NC=C2N(C1=O)C)C4=CC(=CN=C4)C(C)(C)O)OC
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0N5JZ,PF-04691502,Phase 2,CC1=C2C=C(C(=O)N(C2=NC(=N1)N)C3CCC(CC3)OCCO)C4=CN=C(C=C4)OC
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0O6VZ,GDC-0980/RG7422,Phase 2,CC1=C(SC2=C1N=C(N=C2N3CCOCC3)C4=CN=C(N=C4)N)CN5CCN(CC5)C(=O)C(C)O
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0VG0D,BEZ235,Phase 2,CC(C)(C#N)C1=CC=C(C=C1)N2C3=C4C=C(C=CC4=NC=C3N(C2=O)C)C5=CC6=CC=CC=C6N=C5
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D00BUO,MM-141,Phase 2,
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0TU7B,PQR309,Phase 2,C1COCCN1C2=NC(=NC(=N2)C3=CN=C(C=C3C(F)(F)F)N)N4CCOCC4
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0Z2UQ,AZD2014,Phase 2,CC1COCCN1C2=NC(=NC3=C2C=CC(=N3)C4=CC(=CC=C4)C(=O)NC)N5CCOCC5C
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D05EXN,CC-223,Phase 1/2,CC(C)(C1=NC=C(C=C1)C2=CN=C3C(=N2)N(C(=O)CN3)C4CCC(CC4)OC)O
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0X7IN,BGT226,Phase 1/2,CN1C2=CN=C3C=CC(=CC3=C2N(C1=O)C4=CC(=C(C=C4)N5CCNCC5)C(F)(F)F)C6=CN=C(C=C6)OC
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D03IXK,ME-344,Phase 1/2,CC1=C(C=CC2=C1OCC(C2C3=CC=C(C=C3)O)C4=CC=C(C=C4)O)O
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D08PSC,BI 860585,Phase 1,
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0QN5M,LAM-001,Phase 1,
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0R9VX,DS-3078,Phase 1,
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0U8QH,GDC-0349,Phase 1,CCNC(=O)NC1=CC=C(C=C1)C2=NC3=C(CCN(C3)C4COC4)C(=N2)N5CCOCC5C
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D1RLY2,CERC 006,Phase 1,COC1=CC=CC2=C1NC(=C2)C3=C4C(=NC=NN4C(=N3)C5CCC(CC5)C(=O)O)N
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0X4RT,DS-7423,Phase 1,
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0Y0FE,PWT-33597,Phase 1,CN(C)CCS(=O)(=O)NC1=CC=C(C=C1)C2=NC(=NC(=N2)N3CCOCC3)N4C5=C(C(=CC=C5)OC)N=C4C(F)F
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0U3DP,VS-5584,Phase 1,CC1=NC2=C(N=C(N=C2N1C(C)C)N3CCOCC3)C4=CN=C(N=C4)N
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D07TVO,PMID25726713-Compound-49,Patented,
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0KH7Q,PMID25726713-Compound-51,Patented,
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0WJ3W,PMID25726713-Compound-48,Patented,
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0X5VI,PMID25726713-Compound-47,Patented,
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0Y8JF,PMID25726713-Compound-50,Patented,
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0K1VK,AZD8055,Discontinued in Phase 1/2,CC1COCCN1C2=NC(=NC3=C2C=CC(=N3)C4=CC(=C(C=C4)OC)CO)N5CCOCC5C
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0H5MX,TAFA-93,Discontinued in Phase 1,CC1CCC2CC(C(=CC=CC=CC(CC(C(=O)C(C(C(=CC(C(=O)CC(OC(=O)C3CCCCN3C(=O)C(=O)C1(O2)O)C(C)CC4CCC(C(C4)OC)O)C)C)OC(=O)CN(C)C)OC)C)C)C)OC.CS(=O)(=O)O
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D05SXC,SCR-44001,Terminated,
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D00GQM,(4-(6-morpholino-9H-purin-2-yl)phenyl)methanol,Investigative,C1COCCN1C2=NC(=NC3=C2NC=N3)C4=CC=C(C=C4)CO
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D01AQN,Rapamycin complexed with immunophilin FKBP12,Investigative,
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D02TCF,C-16-(S)-3-methylindolerapamycin,Investigative,CC1CCC2CC(C(=CC=CC=CC(CC(C(=O)C(C(C(=CC(C(=O)CC(OC(=O)C3CCCCN3C(=O)C(=O)C1(O2)O)C(C)CC4CCC(C(C4)OC)O)C)C)O)OC)C)C)C)C5=CC=CC6=C5NC=C6C
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D03XRZ,PF-05094037,Investigative,
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D05SOW,SX-MTR1,Investigative,
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D07JKB,2-(6-morpholino-9H-purin-2-yl)phenol,Investigative,C1COCCN1C2=NC(=NC3=C2NC=N3)C4=CC=CC=C4O
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D07NFT,P-2281,Investigative,
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D08BTX,X-387,Investigative,
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D09FBN,4-(6-morpholino-9H-purin-2-yl)phenol,Investigative,C1COCCN1C2=NC(=NC3=C2NC=N3)C4=CC=C(C=C4)O
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D09VHS,EM-101,Investigative,C1CN(CCN1)C2=CC(=O)C3=C(O2)C(=CC=C3)C4=CC=CC=C4
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0A8ES,EC-0845,Investigative,
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0AH8Q,4-(2-(thiophen-2-yl)-9H-purin-6-yl)morpholine,Investigative,C1COCCN1C2=NC(=NC3=C2NC=N3)C4=CC=CS4
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0E1YN,SB-2280,Investigative,
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0F1SI,4-(2-(thiophen-3-yl)-9H-purin-6-yl)morpholine,Investigative,C1COCCN1C2=NC(=NC3=C2NC=N3)C4=CSC=C4
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0H0HR,torin 1,Investigative,CCC(=O)N1CCN(CC1)C2=C(C=C(C=C2)N3C(=O)C=CC4=CN=C5C=CC(=CC5=C43)C6=CC7=CC=CC=C7N=C6)C(F)(F)F
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0H4KF,EC-0565,Investigative,
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0J9PK,OXA-01,Investigative,C1CC(CCC1C2=NC(=C3N2C=CN=C3N)C4=CC5=C(N4)C(=CC=C5)Cl)C(=O)O
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0N9TK,AR-mTOR-26,Investigative,
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0P0UV,2-chloro-N-(6-cyanopyridin-3-yl)propanamide,Investigative,CC(C(=O)NC1=CN=C(C=C1)C#N)Cl
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0TC5H,3-(6-morpholino-9H-purin-2-yl)phenol,Investigative,C1COCCN1C2=NC(=NC3=C2NC=N3)C4=CC(=CC=C4)O
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0U8GR,AP-21967,Investigative,CC1CCC2CC(C(=CC=CC=CC(CC(C(C(C(C(=CC(C(CC(OC(=O)C3CCCCN3C(=O)C(=O)C1(O2)O)C(C)CC4CCC(C(C4)OC)O)O)C)C)O)OC)O)C)C)C)C5=CNC6=C(C=CC=C56)C
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0Y1DR,4-(2-(1H-indol-6-yl)-9H-purin-6-yl)morpholine,Investigative,C1COCCN1C2=NC(=NC3=C2NC=N3)C4=CC5=C(C=C4)C=CN5
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D2B7WM,Torin2,Investigative,C1=CC(=CC(=C1)N2C(=O)C=CC3=CN=C4C=CC(=CC4=C32)C5=CN=C(C=C5)N)C(F)(F)F
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D02ELN,HM-5016699,Investigative,
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D05RSS,PF-03772304,Investigative,
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0H2CM,PP-242,Investigative,CC(C)N1C2=NC=NC(=C2C(=N1)C3=CC4=C(N3)C=CC(=C4)O)N
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0JD4S,CU-906,Investigative,
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0QE9F,P-6915,Investigative,
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0T0BY,"2-Morpholin-4-yl-pyrimido[2,1-a]isoquinolin-4-one",Investigative,C1COCCN1C2=CC(=O)N3C=CC4=CC=CC=C4C3=N2
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0X7TB,2-(2-Methyl-morpholin-4-yl)-benzo[h]chromen-4-one,Investigative,CC1CN(CCO1)C2=CC(=O)C3=C(O2)C4=CC=CC=C4C=C3
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D0W1ST,Ethyl 1-[(1H-benzimidazol-2(3H)one-5-yl)sulfonyl]-1H-pyrrole-2-carboxylate,Investigative,C1COCCN1C2=CC(=O)C3=C(O2)C4=CC=CC=C4C=C3
+MTOR,Serine/threonine-protein kinase mTOR (mTOR),D03EHM,PP121,Investigative,C1CCC(C1)N2C3=NC=NC(=C3C(=N2)C4=CN=C5C(=C4)C=CN5)N
+PIK3CA,PI3-kinase alpha (PIK3CA),D0W7HE,Alpelisib,Approved,CC1=C(SC(=N1)NC(=O)N2CCCC2C(=O)N)C3=CC(=NC=C3)C(C)(C)C(F)(F)F
+PIK3CA,PI3-kinase alpha (PIK3CA),D0S5LD,BAY 80-6946,Approved,COC1=C(C=CC2=C3NCCN3C(=NC(=O)C4=CN=C(N=C4)N)N=C21)OCCCN5CCOCC5
+PIK3CA,PI3-kinase alpha (PIK3CA),D0UP1Z,GDC-0032,Phase 3,CC1=NN(C(=N1)C2=CN3CCOC4=C(C3=N2)C=CC(=C4)C5=CN(N=C5)C(C)(C)C(=O)N)C(C)C
+PIK3CA,PI3-kinase alpha (PIK3CA),D01QSO,Buparlisib,Phase 3,C1COCCN1C2=NC(=NC(=C2)C3=CN=C(C=C3C(F)(F)F)N)N4CCOCC4
+PIK3CA,PI3-kinase alpha (PIK3CA),D0H1WC,LY3023414,Phase 2,CC(CN1C2=C3C=C(C=CC3=NC=C2N(C1=O)C)C4=CC(=CN=C4)C(C)(C)O)OC
+PIK3CA,PI3-kinase alpha (PIK3CA),D0Y2NS,MLN1117,Phase 1/2,C1COCCN1C(=O)C2=CN=C3N2C=C(C=C3)C4=CC5=C(C=C4)OC(=N5)N
+PIK3CA,PI3-kinase alpha (PIK3CA),D05CBJ,PA-799,Phase 1/2,CS(=O)(=O)N1CCC2=C(N=C(N=C21)N3CCOCC3)C4=CN=C(N=C4)N
+PIK3CA,PI3-kinase alpha (PIK3CA),D01LMM,BLY719,Phase 1,
+PIK3CA,PI3-kinase alpha (PIK3CA),D8IJR1,LY3849524,Phase 1,
+PIK3CA,PI3-kinase alpha (PIK3CA),DYF2N4,HHCYH33,Phase 1,COC(=O)NC1=NC=C(C(=C1)C(F)(F)F)C2=NN3C=C(C=C3C(=N2)N4CCOCC4)CN5CCN(CC5)S(=O)(=O)C
+PIK3CA,PI3-kinase alpha (PIK3CA),D0Y0FE,PWT-33597,Phase 1,CN(C)CCS(=O)(=O)NC1=CC=C(C=C1)C2=NC(=NC(=N2)N3CCOCC3)N4C5=C(C(=CC=C5)OC)N=C4C(F)F
+PIK3CA,PI3-kinase alpha (PIK3CA),DOR1I0,ETP-46321,Investigative,CS(=O)(=O)N1CCN(CC1)CC2=CN3C=C(N=C(C3=N2)N4CCOCC4)C5=CN=C(N=C5)N

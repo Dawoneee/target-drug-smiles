@@ -39,7 +39,7 @@ These files can be downloaded from the **Therapeutic Target Database (TTD)** web
 ## Usage
 Run the pipeline:
 ```bash
-python extract_ttd_mapping.py
+python extract_target_drug_ttd.py
 ```
 
 Modify `search_genes` in the script to set your own target genes:
@@ -53,9 +53,9 @@ search_genes = ["AKT1", "AKT2", "AURKB", "CTSK", "EGFR", "HDAC1", "MTOR", "PIK3C
 - **`data/TTD_target_drugs.csv`** – Final merged dataset.
 
 Example output:
-| Gene   | Target                                        | Drug_ID | Drug_name         | Approval_status | SMILES                                                      |
-|--------|-----------------------------------------------|---------|-------------------|-----------------|-------------------------------------------------------------|
-| AKT2   | RAC-beta serine/threonine-protein kinase (AKT2) | D0M9QJ  | PHT-427           | Investigative   | C1CN(CCC1(C(=O)NC(CCO)C2=CC=C(C=C2)Cl)N)C3=NC=NC4=C3C=CN4    |
+| Gene   | Target                                           | Drug_ID | Drug_name         | Approval_status | SMILES                                                      |
+|--------|--------------------------------------------------|---------|-------------------|-----------------|-------------------------------------------------------------|
+| AKT1   | RAC-alpha serine/threonine-protein kinase (AKT1) | D01ZAQ  | Capivasertib      | Approved        | C1CN(CCC1(C(=O)NC(CCO)C2=CC=C(C=C2)Cl)N)C3=NC=NC4=C3C=CN4   |
 
 ---
 
@@ -70,5 +70,5 @@ Example output:
   TTD provides information on therapeutic protein/nucleic acid targets, associated diseases, pathways, and corresponding drugs.  
   Website: [http://db.idrblab.net/ttd/](http://db.idrblab.net/ttd/)  
   Direct download: [http://db.idrblab.net/ttd/](http://db.idrblab.net/ttd/) 
-```
+
 
