@@ -32,7 +32,7 @@ Place the following files in `data/TTD/`:
 - **`P1-01-TTD_target_download.txt`**: Target–drug relationship data.  
 - **`P1-02-TTD_drug_download.txt`**: Drug metadata, including SMILES.
 
-These files can be downloaded from the **Therapeutic Target Database (TTD)** website (registration may be required).
+These files can be downloaded from the **Therapeutic Target Database (TTD)** website.
 
 ---
 
