@@ -9,10 +9,11 @@ It extracts drug information for selected genes, retrieves SMILES strings, and o
 ---
 
 ## Features
-- Parse **TTD target file** to extract **gene–drug relationships**.
-- Parse **TTD drug file** to retrieve **SMILES** for each drug.
-- Merge results into a single dataset.
-- Easily customize the **list of target genes**.
+- Extract **gene–drug relationships** from the **TTD target file**.
+- Retrieve **SMILES** strings for each drug from the **TTD drug file**.
+- Merge results into a single CSV dataset.
+- Flexible configuration of the **list of target genes** and file paths via command-line arguments.
+
 
 ---
 
@@ -28,29 +29,34 @@ pip install pandas
 ---
 
 ## Input Data
-Place the following files in `data/TTD/`:
+Place the following files in `data/TTD/`(or specify custom paths with `--target_raw_file` and `--drug_raw_file`):
 - **`P1-01-TTD_target_download.txt`**: Target–drug relationship data.  
 - **`P1-02-TTD_drug_download.txt`**: Drug metadata, including SMILES.
 
-These files can be downloaded from the **Therapeutic Target Database (TTD)** website (registration may be required).
+These files can be downloaded from the **Therapeutic Target Database (TTD)** website.
 
 ---
 
 ## Usage
-Run the pipeline:
+Run the pipeline with default settings:
 ```bash
 python extract_target_drug_ttd.py
 ```
 
-Modify `search_genes` in the script to set your own target genes:
-```python
-search_genes = ["AKT1", "AKT2", "AURKB", "CTSK", "EGFR", "HDAC1", "MTOR", "PIK3CA"]
+Specify custom file paths and output location:
+```bash
+python extract_target_drug_ttd.py \
+    --target_raw_file /path/to/P1-01-TTD_target_download.txt \
+    --drug_raw_file /path/to/P1-02-TTD_drug_download.txt \
+    --gene_list AKT1 AKT2 EGFR \
+    --output /path/to/output/TTD_target_drugs.csv
 ```
 
 ---
 
 ## Output
-- **`data/TTD_target_drugs.csv`** – Final merged dataset.
+- Default output file: `data/TTD_target_drugs.csv`
+- CSV contains merged information for each matching target gene and drug, with SMILES strings.
 
 Example output:
 | Gene   | Target                                           | Drug_ID | Drug_name         | Approval_status | SMILES                                                      |
@@ -60,8 +66,9 @@ Example output:
 ---
 
 ## Notes
-- The output includes only entries with both target–drug links and SMILES data.
+- Only entries with both target–drug links and SMILES data are included in the output.
 - SMILES strings can be used directly for cheminformatics or machine learning applications.
+- Output directory is created automatically if it does not exist.
 
 ---
 
