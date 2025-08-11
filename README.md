@@ -1,8 +1,6 @@
 # target-drug-pipeline
 Mapping Gene Targets to Drugs Using TTD Data
 
-```markdown
-# target-drug-pipeline
 
 ## Overview
 `target-drug-pipeline` is a Python script that processes **Therapeutic Target Database (TTD)** data to build a pipeline from **gene targets → drugs → SMILES**.  
@@ -71,6 +69,6 @@ Example output:
 - **Therapeutic Target Database (TTD)**  
   TTD provides information on therapeutic protein/nucleic acid targets, associated diseases, pathways, and corresponding drugs.  
   Website: [http://db.idrblab.net/ttd/](http://db.idrblab.net/ttd/)  
-  Direct download: [http://db.idrblab.net/ttd/](http://db.idrblab.net/ttd/) (registration may be required)
+  Direct download: [http://db.idrblab.net/ttd/](http://db.idrblab.net/ttd/) 
 ```
 
