@@ -1,9 +1,9 @@
-# target-drug-pipeline
+# target-drug-smiles
 Mapping Gene Targets to Drugs Using TTD Data
 
 
 ## Overview
-`target-drug-pipeline` is a Python script that processes **Therapeutic Target Database (TTD)** data to build a pipeline from **gene targets → drugs → SMILES**.  
+`target-drug-smiles` is a Python script that processes **Therapeutic Target Database (TTD)** data to build a pipeline from **gene targets → drugs → SMILES**.  
 It extracts drug information for selected genes, retrieves SMILES strings, and outputs a clean CSV for downstream analysis or modeling.
 
 ---
